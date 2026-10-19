@@ -1,0 +1,40 @@
+{
+  "raw_rows": 3614,
+  "raw_columns": 16,
+  "duplicates_removed": 0,
+  "empty_behavior_removed": 0,
+  "valid_rows": 3614,
+  "state_missing": 1614,
+  "grade_outside_minus3_plus3": 376,
+  "preferred_not_in_used": 2427,
+  "items": 59,
+  "train_rows": 2529,
+  "test_rows": 1085,
+  "itemsets": 2122,
+  "rules": 166,
+  "concise_rules": 49,
+  "test_pass": 40,
+  "sha256": "78444e3e16b9bb157503424fe926a9dfbce2c7726d5902e5c7b13b84ea410581",
+  "python": "3.12.10",
+  "tool_counts": {
+    "Công cụ=ChatGPT": 1557,
+    "Công cụ=Copilot": 1516,
+    "Công cụ=Gemini": 1409,
+    "Công cụ=Midjourney": 371,
+    "Công cụ=Claude": 171,
+    "Công cụ=Other": 167,
+    "Công cụ=Bard": 151
+  },
+  "purpose_counts": {
+    "Mục đích=Coding Help": 766,
+    "Mục đích=Assignments": 749,
+    "Mục đích=Projects": 699,
+    "Mục đích=MCQ Practice": 692,
+    "Mục đích=Exam Prep": 653,
+    "Mục đích=Doubt Solving": 638,
+    "Mục đích=Resume Writing": 617,
+    "Mục đích=Content Writing": 602,
+    "Mục đích=Learning new topics": 594,
+    "Mục đích=Notes": 451
+  }
+}

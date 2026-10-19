@@ -1,0 +1,2123 @@
+﻿support,itemsets
+0.5037564254646105,Trả phí=No
+0.4820086990905496,Cho phép=Yes
+0.4389086595492289,Công cụ=ChatGPT
+0.42704626334519574,Ảnh hưởng điểm=Âm
+0.4234875444839858,Công cụ=Copilot
+0.4211150652431791,Giờ dùng=Từ 3h
+0.4092526690391459,Tin tưởng=Cao
+0.38394622380387505,Công cụ=Gemini
+0.36694345591142746,Nhận biết=Trung bình
+0.3527085804665876,Internet=Medium
+0.3313562672993278,Thiết bị=Tablet
+0.24950573349149863,Năm học=4
+0.20877817319098457,Ưa thích=Other
+0.17279557137208382,Mục đích=Learning new topics
+0.0656385923289838,Ngành=Law
+0.5179913009094503,Cho phép=No
+0.3736654804270463,Thiết bị=Laptop
+0.3056544088572558,Internet=High
+0.2625543693159352,Năm học=2
+0.2321075523922499,Ưa thích=Copilot
+0.1708185053380783,Mục đích=Content Writing
+0.0715697904310004,Ngành=Pharmacy
+0.4962435745353895,Trả phí=Yes
+0.45037564254646106,Giờ dùng=1 đến dưới 3h
+0.2870699881376038,Nhận biết=Thấp
+0.23606168446026096,Ưa thích=Gemini
+0.19137999209173587,Tin tưởng=Trung bình
+0.0992487149070779,Ngành=Commerce
+0.44286279161724,Ảnh hưởng điểm=Dương
+0.39936733886911824,Tin tưởng=Thấp
+0.29497825227362595,Thiết bị=Mobile
+0.21747726374060894,Mục đích=Coding Help
+0.2095689996045868,Mục đích=Assignments
+0.08738631870304468,Ngành=Hotel-management
+0.3416370106761566,Internet=Poor
+0.24752866745749308,Năm học=3
+0.3459865559509688,Nhận biết=Cao
+0.19256623171213919,Mục đích=MCQ Practice
+0.13364966389877422,Ngành=Engineering
+0.1656781336496639,Mục đích=Resume Writing
+0.1652827204428628,Mục đích=Doubt Solving
+0.09213127718465797,Công cụ=Midjourney
+0.07671016211941478,Ngành=Medical
+0.24041122973507315,Năm học=1
+0.12850929221035984,Giờ dùng=Dưới 1h
+0.23962040332147094,Ưa thích=ChatGPT
+0.11546065638592329,Ngành=Arts
+0.177145116646896,Mục đích=Exam Prep
+0.19137999209173587,Mục đích=Projects
+0.16330565440885725,Ngành=Science
+0.13009094503756424,Ảnh hưởng điểm=Bằng 0
+0.11466982997232107,Ngành=Management
+0.07236061684460261,Ngành=Agriculture
+0.12336892052194544,Mục đích=Notes
+0.2637406089363385,Cho phép=No & Trả phí=No
+0.24001581652827206,Cho phép=Yes & Trả phí=No
+0.24199288256227758,Cho phép=Yes & Trả phí=Yes
+0.22182680901542112,Công cụ=ChatGPT & Trả phí=No
+0.22143139580862,Cho phép=Yes & Công cụ=ChatGPT
+0.21747726374060894,Cho phép=No & Công cụ=ChatGPT
+0.19058916567813364,Công cụ=ChatGPT & Ảnh hưởng điểm=Dương
+0.21708185053380782,Công cụ=ChatGPT & Trả phí=Yes
+0.20047449584816132,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h
+0.10873863187030447,Cho phép=Yes & Công cụ=ChatGPT & Trả phí=No
+0.11308817714511665,Cho phép=No & Công cụ=ChatGPT & Trả phí=No
+0.099644128113879,Công cụ=ChatGPT & Trả phí=No & Ảnh hưởng điểm=Dương
+0.07394226967180703,Cho phép=No & Công cụ=ChatGPT & Ảnh hưởng điểm=Dương
+0.09094503756425465,Công cụ=ChatGPT & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.08540925266903915,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Dương
+0.1166468960063266,Cho phép=Yes & Công cụ=ChatGPT & Ảnh hưởng điểm=Dương
+0.10438908659549229,Cho phép=No & Công cụ=ChatGPT & Trả phí=Yes
+0.11269276393831554,Cho phép=Yes & Công cụ=ChatGPT & Trả phí=Yes
+0.10122578094108343,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Trả phí=Yes
+0.09727164887307237,Cho phép=No & Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h
+0.0992487149070779,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Trả phí=No
+0.10320284697508897,Cho phép=Yes & Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h
+0.21629102412020562,Trả phí=No & Ảnh hưởng điểm=Âm
+0.1878212732305259,Cho phép=Yes & Ảnh hưởng điểm=Âm
+0.18109924871490707,Công cụ=ChatGPT & Ảnh hưởng điểm=Âm
+0.23922499011466983,Cho phép=No & Ảnh hưởng điểm=Âm
+0.21075523922499012,Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.19019375247133255,Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Âm
+0.12415974693554764,Cho phép=No & Trả phí=No & Ảnh hưởng điểm=Âm
+0.09213127718465797,Cho phép=Yes & Trả phí=No & Ảnh hưởng điểm=Âm
+0.09568999604586793,Cho phép=Yes & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.08422301304863583,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Âm
+0.088572558323448,Công cụ=ChatGPT & Trả phí=No & Ảnh hưởng điểm=Âm
+0.0719652036378015,Cho phép=Yes & Công cụ=ChatGPT & Ảnh hưởng điểm=Âm
+0.10913404507710557,Cho phép=No & Công cụ=ChatGPT & Ảnh hưởng điểm=Âm
+0.09252669039145907,Công cụ=ChatGPT & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.08026888098062475,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Âm
+0.11506524317912219,Cho phép=No & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.10597073942269672,Cho phép=No & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Âm
+0.09489916963226572,Giờ dùng=1 đến dưới 3h & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.09529458283906682,Giờ dùng=1 đến dưới 3h & Trả phí=No & Ảnh hưởng điểm=Âm
+0.2641360221431396,Công cụ=ChatGPT & Công cụ=Copilot
+0.21233689205219455,Cho phép=Yes & Công cụ=Copilot
+0.210359826018189,Công cụ=Copilot & Trả phí=No
+0.18426255436931593,Công cụ=Copilot & Ảnh hưởng điểm=Âm
+0.2111506524317912,Cho phép=No & Công cụ=Copilot
+0.1712139185448794,Công cụ=Copilot & Ảnh hưởng điểm=Dương
+0.21312771846579676,Công cụ=Copilot & Trả phí=Yes
+0.1984974298141558,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h
+0.1320680110715698,Cho phép=Yes & Công cụ=ChatGPT & Công cụ=Copilot
+0.1111111111111111,Cho phép=Yes & Công cụ=Copilot & Trả phí=Yes
+0.1332542506919731,Công cụ=ChatGPT & Công cụ=Copilot & Trả phí=No
+0.10122578094108343,Cho phép=Yes & Công cụ=Copilot & Trả phí=No
+0.10913404507710557,Cho phép=No & Công cụ=Copilot & Trả phí=No
+0.11229735073151444,Công cụ=ChatGPT & Công cụ=Copilot & Ảnh hưởng điểm=Âm
+0.08896797153024912,Công cụ=Copilot & Trả phí=No & Ảnh hưởng điểm=Âm
+0.08145512060102808,Cho phép=Yes & Công cụ=Copilot & Ảnh hưởng điểm=Âm
+0.10280743376828787,Cho phép=No & Công cụ=Copilot & Ảnh hưởng điểm=Âm
+0.09529458283906682,Công cụ=Copilot & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.08936338473705022,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Âm
+0.1320680110715698,Cho phép=No & Công cụ=ChatGPT & Công cụ=Copilot
+0.10201660735468565,Cho phép=No & Công cụ=Copilot & Trả phí=Yes
+0.1103202846975089,Công cụ=ChatGPT & Công cụ=Copilot & Ảnh hưởng điểm=Dương
+0.08659549228944247,Công cụ=Copilot & Trả phí=No & Ảnh hưởng điểm=Dương
+0.06959272439699486,Cho phép=No & Công cụ=Copilot & Ảnh hưởng điểm=Dương
+0.10162119414788454,Cho phép=Yes & Công cụ=Copilot & Ảnh hưởng điểm=Dương
+0.07275603005140371,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Dương
+0.08461842625543693,Công cụ=Copilot & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.13088177145116647,Công cụ=ChatGPT & Công cụ=Copilot & Trả phí=Yes
+0.11743772241992882,Công cụ=ChatGPT & Công cụ=Copilot & Giờ dùng=1 đến dưới 3h
+0.10083036773428232,Cho phép=No & Công cụ=Copilot & Giờ dùng=1 đến dưới 3h
+0.10083036773428232,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Trả phí=Yes
+0.09766706207987347,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Trả phí=No
+0.09766706207987347,Cho phép=Yes & Công cụ=Copilot & Giờ dùng=1 đến dưới 3h
+0.20640569395017794,Giờ dùng=Từ 3h & Trả phí=No
+0.19968366943455912,Cho phép=Yes & Giờ dùng=Từ 3h
+0.17556346381969157,Công cụ=ChatGPT & Giờ dùng=Từ 3h
+0.17002767892447607,Giờ dùng=Từ 3h & Ảnh hưởng điểm=Âm
+0.1652827204428628,Công cụ=Copilot & Giờ dùng=Từ 3h
+0.22143139580862,Cho phép=No & Giờ dùng=Từ 3h
+0.20601028074337682,Giờ dùng=Từ 3h & Ảnh hưởng điểm=Dương
+0.2147093712930012,Giờ dùng=Từ 3h & Trả phí=Yes
+0.10992487149070779,Cho phép=No & Giờ dùng=Từ 3h & Trả phí=No
+0.09648082245947015,Cho phép=Yes & Giờ dùng=Từ 3h & Trả phí=No
+0.10320284697508897,Cho phép=Yes & Giờ dùng=Từ 3h & Trả phí=Yes
+0.10003954132068012,Cho phép=Yes & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Dương
+0.09173586397785687,Cho phép=Yes & Công cụ=ChatGPT & Giờ dùng=Từ 3h
+0.08896797153024912,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Trả phí=No
+0.08382759984183472,Cho phép=No & Công cụ=ChatGPT & Giờ dùng=Từ 3h
+0.08422301304863583,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Dương
+0.08659549228944247,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Trả phí=Yes
+0.08382759984183472,Giờ dùng=Từ 3h & Trả phí=No & Ảnh hưởng điểm=Âm
+0.07868722815342033,Cho phép=Yes & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Âm
+0.07077896401739818,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Âm
+0.09134045077105575,Cho phép=No & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Âm
+0.08620007908264136,Giờ dùng=Từ 3h & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.10438908659549229,Công cụ=ChatGPT & Công cụ=Copilot & Giờ dùng=Từ 3h
+0.08699090549624358,Cho phép=Yes & Công cụ=Copilot & Giờ dùng=Từ 3h
+0.07947805456702253,Công cụ=Copilot & Giờ dùng=Từ 3h & Trả phí=No
+0.0660340055357849,Công cụ=Copilot & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Âm
+0.07829181494661921,Cho phép=No & Công cụ=Copilot & Giờ dùng=Từ 3h
+0.07947805456702253,Công cụ=Copilot & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Dương
+0.08580466587584025,Công cụ=Copilot & Giờ dùng=Từ 3h & Trả phí=Yes
+0.10597073942269672,Cho phép=No & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Dương
+0.10003954132068012,Giờ dùng=Từ 3h & Trả phí=No & Ảnh hưởng điểm=Dương
+0.10597073942269672,Giờ dùng=Từ 3h & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.11150652431791222,Cho phép=No & Giờ dùng=Từ 3h & Trả phí=Yes
+0.20284697508896798,Tin tưởng=Cao & Trả phí=No
+0.18979833926453143,Cho phép=Yes & Tin tưởng=Cao
+0.188216686437327,Công cụ=ChatGPT & Tin tưởng=Cao
+0.18426255436931593,Công cụ=Copilot & Tin tưởng=Cao
+0.18307631474891262,Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.17398181099248716,Giờ dùng=Từ 3h & Tin tưởng=Cao
+0.21945432977461446,Cho phép=No & Tin tưởng=Cao
+0.18070383550810598,Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao
+0.17002767892447607,Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.20640569395017794,Tin tưởng=Cao & Trả phí=Yes
+0.11150652431791222,Cho phép=No & Tin tưởng=Cao & Trả phí=No
+0.09134045077105575,Cho phép=Yes & Tin tưởng=Cao & Trả phí=No
+0.09845788849347568,Cho phép=Yes & Tin tưởng=Cao & Trả phí=Yes
+0.09173586397785687,Công cụ=ChatGPT & Tin tưởng=Cao & Trả phí=No
+0.08343218663503361,Cho phép=Yes & Công cụ=ChatGPT & Tin tưởng=Cao
+0.1047844998022934,Cho phép=No & Công cụ=ChatGPT & Tin tưởng=Cao
+0.09648082245947015,Công cụ=ChatGPT & Tin tưởng=Cao & Trả phí=Yes
+0.11229735073151444,Công cụ=ChatGPT & Công cụ=Copilot & Tin tưởng=Cao
+0.09213127718465797,Công cụ=Copilot & Tin tưởng=Cao & Trả phí=No
+0.08540925266903915,Cho phép=Yes & Công cụ=Copilot & Tin tưởng=Cao
+0.09885330170027679,Cho phép=No & Công cụ=Copilot & Tin tưởng=Cao
+0.09213127718465797,Công cụ=Copilot & Tin tưởng=Cao & Trả phí=Yes
+0.08975879794385132,Tin tưởng=Cao & Trả phí=No & Ảnh hưởng điểm=Âm
+0.08580466587584025,Công cụ=ChatGPT & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.0771055753262159,Công cụ=Copilot & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.07591933570581258,Cho phép=Yes & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.10715697904310004,Cho phép=No & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.09331751680506128,Tin tưởng=Cao & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.08422301304863583,Giờ dùng=Từ 3h & Tin tưởng=Cao & Trả phí=No
+0.07987346777382365,Cho phép=Yes & Giờ dùng=Từ 3h & Tin tưởng=Cao
+0.07829181494661921,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Tin tưởng=Cao
+0.07512850929221036,Giờ dùng=Từ 3h & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.07354685646500593,Công cụ=Copilot & Giờ dùng=Từ 3h & Tin tưởng=Cao
+0.0941083432186635,Cho phép=No & Giờ dùng=Từ 3h & Tin tưởng=Cao
+0.08975879794385132,Giờ dùng=Từ 3h & Tin tưởng=Cao & Trả phí=Yes
+0.09252669039145907,Cho phép=No & Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao
+0.088572558323448,Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao & Trả phí=No
+0.0881771451166469,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao
+0.08461842625543693,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao
+0.09213127718465797,Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao & Trả phí=Yes
+0.08185053380782918,Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.07671016211941478,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao
+0.08580466587584025,Tin tưởng=Cao & Trả phí=No & Ảnh hưởng điểm=Dương
+0.08066429418742586,Cho phép=No & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.06801107156979043,Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.08936338473705022,Cho phép=Yes & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.07591933570581258,Công cụ=Copilot & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.08422301304863583,Tin tưởng=Cao & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.07275603005140371,Công cụ=ChatGPT & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.0826413602214314,Giờ dùng=Từ 3h & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.10794780545670225,Cho phép=No & Tin tưởng=Cao & Trả phí=Yes
+0.1937524713325425,Công cụ=Gemini & Trả phí=No
+0.17912218268090155,Cho phép=Yes & Công cụ=Gemini
+0.1656781336496639,Công cụ=Gemini & Giờ dùng=Từ 3h
+0.1609331751680506,Công cụ=Gemini & Ảnh hưởng điểm=Âm
+0.14037168841439304,Công cụ=Gemini & Tin tưởng=Cao
+0.11981020166073547,Công cụ=Copilot & Công cụ=Gemini
+0.11981020166073547,Công cụ=ChatGPT & Công cụ=Gemini
+0.2048240411229735,Cho phép=No & Công cụ=Gemini
+0.19019375247133255,Công cụ=Gemini & Trả phí=Yes
+0.17556346381969157,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h
+0.17872676947410043,Công cụ=Gemini & Ảnh hưởng điểm=Dương
+0.1712139185448794,Công cụ=Gemini & Tin tưởng=Thấp
+0.10755239224990115,Cho phép=No & Công cụ=Gemini & Trả phí=No
+0.08620007908264136,Cho phép=Yes & Công cụ=Gemini & Trả phí=No
+0.09292210359826018,Cho phép=Yes & Công cụ=Gemini & Trả phí=Yes
+0.07789640173981811,Công cụ=Gemini & Giờ dùng=Từ 3h & Trả phí=No
+0.07552392249901146,Cho phép=Yes & Công cụ=Gemini & Giờ dùng=Từ 3h
+0.09015421115065243,Cho phép=No & Công cụ=Gemini & Giờ dùng=Từ 3h
+0.0881771451166469,Công cụ=Gemini & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Dương
+0.07908264136022143,Công cụ=Gemini & Giờ dùng=Từ 3h & Tin tưởng=Thấp
+0.08778173190984578,Công cụ=Gemini & Giờ dùng=Từ 3h & Trả phí=Yes
+0.08224594701463028,Công cụ=Gemini & Trả phí=No & Ảnh hưởng điểm=Âm
+0.06722024515618821,Cho phép=Yes & Công cụ=Gemini & Ảnh hưởng điểm=Âm
+0.06207987346777382,Công cụ=Gemini & Giờ dùng=Từ 3h & Ảnh hưởng điểm=Âm
+0.0937129300118624,Cho phép=No & Công cụ=Gemini & Ảnh hưởng điểm=Âm
+0.07868722815342033,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Âm
+0.07868722815342033,Công cụ=Gemini & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.06524317912218268,Công cụ=Gemini & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.0719652036378015,Công cụ=Gemini & Tin tưởng=Cao & Trả phí=No
+0.0711743772241993,Công cụ=Gemini & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.05693950177935943,Cho phép=Yes & Công cụ=Gemini & Tin tưởng=Cao
+0.05614867536575722,Công cụ=Gemini & Giờ dùng=Từ 3h & Tin tưởng=Cao
+0.07275603005140371,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao
+0.05614867536575722,Công cụ=Gemini & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.06840648477659154,Công cụ=Gemini & Tin tưởng=Cao & Trả phí=Yes
+0.08343218663503361,Cho phép=No & Công cụ=Gemini & Tin tưởng=Cao
+0.0608936338473705,Cho phép=Yes & Công cụ=Copilot & Công cụ=Gemini
+0.05812574139976275,Công cụ=Copilot & Công cụ=Gemini & Trả phí=No
+0.05338078291814947,Công cụ=Copilot & Công cụ=Gemini & Ảnh hưởng điểm=Âm
+0.05891656781336497,Cho phép=No & Công cụ=Copilot & Công cụ=Gemini
+0.05417160933175168,Công cụ=Copilot & Công cụ=Gemini & Tin tưởng=Thấp
+0.06366152629497825,Công cụ=Copilot & Công cụ=Gemini & Giờ dùng=1 đến dưới 3h
+0.06168446026097272,Công cụ=Copilot & Công cụ=Gemini & Trả phí=Yes
+0.11981020166073547,Công cụ=ChatGPT & Công cụ=Copilot & Công cụ=Gemini
+0.0608936338473705,Cho phép=Yes & Công cụ=ChatGPT & Công cụ=Gemini
+0.05812574139976275,Công cụ=ChatGPT & Công cụ=Gemini & Trả phí=No
+0.05338078291814947,Công cụ=ChatGPT & Công cụ=Gemini & Ảnh hưởng điểm=Âm
+0.05891656781336497,Cho phép=No & Công cụ=ChatGPT & Công cụ=Gemini
+0.05417160933175168,Công cụ=ChatGPT & Công cụ=Gemini & Tin tưởng=Thấp
+0.06366152629497825,Công cụ=ChatGPT & Công cụ=Gemini & Giờ dùng=1 đến dưới 3h
+0.06168446026097272,Công cụ=ChatGPT & Công cụ=Gemini & Trả phí=Yes
+0.09727164887307237,Cho phép=No & Công cụ=Gemini & Trả phí=Yes
+0.09054962435745353,Cho phép=No & Công cụ=Gemini & Giờ dùng=1 đến dưới 3h
+0.08066429418742586,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Trả phí=Yes
+0.09489916963226572,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Trả phí=No
+0.08501383946223803,Cho phép=Yes & Công cụ=Gemini & Giờ dùng=1 đến dưới 3h
+0.07433768287860815,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Dương
+0.08936338473705022,Cho phép=No & Công cụ=Gemini & Ảnh hưởng điểm=Dương
+0.088572558323448,Công cụ=Gemini & Trả phí=No & Ảnh hưởng điểm=Dương
+0.08936338473705022,Cho phép=Yes & Công cụ=Gemini & Ảnh hưởng điểm=Dương
+0.09015421115065243,Công cụ=Gemini & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.08936338473705022,Cho phép=No & Công cụ=Gemini & Tin tưởng=Thấp
+0.08540925266903915,Công cụ=Gemini & Tin tưởng=Thấp & Trả phí=No
+0.08066429418742586,Công cụ=Gemini & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.08580466587584025,Công cụ=Gemini & Tin tưởng=Thấp & Trả phí=Yes
+0.08185053380782918,Cho phép=Yes & Công cụ=Gemini & Tin tưởng=Thấp
+0.06880189798339265,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp
+0.1933570581257414,Nhận biết=Trung bình & Trả phí=No
+0.18979833926453143,Cho phép=Yes & Nhận biết=Trung bình
+0.16330565440885725,Giờ dùng=Từ 3h & Nhận biết=Trung bình
+0.16251482799525505,Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.155001977066034,Công cụ=Copilot & Nhận biết=Trung bình
+0.15381573744563068,Nhận biết=Trung bình & Tin tưởng=Cao
+0.15342032423882956,Công cụ=ChatGPT & Nhận biết=Trung bình
+0.14076710162119416,Công cụ=Gemini & Nhận biết=Trung bình
+0.177145116646896,Cho phép=No & Nhận biết=Trung bình
+0.11941478845393436,Nhận biết=Trung bình & Thiết bị=Laptop
+0.1494661921708185,Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.1443258204824041,Nhận biết=Trung bình & Tin tưởng=Thấp
+0.16805061289047055,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình
+0.17358639778568605,Nhận biết=Trung bình & Trả phí=Yes
+0.10122578094108343,Cho phép=Yes & Nhận biết=Trung bình & Trả phí=No
+0.08540925266903915,Giờ dùng=Từ 3h & Nhận biết=Trung bình & Trả phí=No
+0.0830367734282325,Cho phép=Yes & Giờ dùng=Từ 3h & Nhận biết=Trung bình
+0.08026888098062475,Cho phép=No & Giờ dùng=Từ 3h & Nhận biết=Trung bình
+0.07789640173981811,Giờ dùng=Từ 3h & Nhận biết=Trung bình & Trả phí=Yes
+0.08382759984183472,Cho phép=Yes & Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.08224594701463028,Nhận biết=Trung bình & Trả phí=No & Ảnh hưởng điểm=Âm
+0.06919731119019375,Giờ dùng=Từ 3h & Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.07868722815342033,Cho phép=No & Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.08026888098062475,Nhận biết=Trung bình & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.07591933570581258,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.0826413602214314,Cho phép=Yes & Công cụ=Copilot & Nhận biết=Trung bình
+0.07987346777382365,Công cụ=Copilot & Nhận biết=Trung bình & Trả phí=No
+0.07038355081059708,Công cụ=Copilot & Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.066429418742586,Công cụ=Copilot & Giờ dùng=Từ 3h & Nhận biết=Trung bình
+0.07236061684460261,Cho phép=No & Công cụ=Copilot & Nhận biết=Trung bình
+0.07512850929221036,Công cụ=Copilot & Nhận biết=Trung bình & Trả phí=Yes
+0.07275603005140371,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình
+0.08461842625543693,Cho phép=Yes & Nhận biết=Trung bình & Tin tưởng=Cao
+0.07552392249901146,Nhận biết=Trung bình & Tin tưởng=Cao & Trả phí=No
+0.0715697904310004,Công cụ=Copilot & Nhận biết=Trung bình & Tin tưởng=Cao
+0.0715697904310004,Nhận biết=Trung bình & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.06880189798339265,Giờ dùng=Từ 3h & Nhận biết=Trung bình & Tin tưởng=Cao
+0.06919731119019375,Cho phép=No & Nhận biết=Trung bình & Tin tưởng=Cao
+0.07275603005140371,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Tin tưởng=Cao
+0.07829181494661921,Nhận biết=Trung bình & Tin tưởng=Cao & Trả phí=Yes
+0.09568999604586793,Công cụ=ChatGPT & Công cụ=Copilot & Nhận biết=Trung bình
+0.08105970739422697,Cho phép=Yes & Công cụ=ChatGPT & Nhận biết=Trung bình
+0.07908264136022143,Công cụ=ChatGPT & Nhận biết=Trung bình & Trả phí=No
+0.06919731119019375,Công cụ=ChatGPT & Nhận biết=Trung bình & Tin tưởng=Cao
+0.06682483194938711,Công cụ=ChatGPT & Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.066429418742586,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Nhận biết=Trung bình
+0.07236061684460261,Cho phép=No & Công cụ=ChatGPT & Nhận biết=Trung bình
+0.07433768287860815,Công cụ=ChatGPT & Nhận biết=Trung bình & Trả phí=Yes
+0.0719652036378015,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình
+0.08105970739422697,Công cụ=Gemini & Nhận biết=Trung bình & Trả phí=No
+0.0715697904310004,Cho phép=Yes & Công cụ=Gemini & Nhận biết=Trung bình
+0.06405693950177936,Công cụ=Gemini & Giờ dùng=Từ 3h & Nhận biết=Trung bình
+0.05693950177935943,Công cụ=Gemini & Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.05258995650454725,Công cụ=Gemini & Nhận biết=Trung bình & Tin tưởng=Cao
+0.06919731119019375,Cho phép=No & Công cụ=Gemini & Nhận biết=Trung bình
+0.06445235270858046,Công cụ=Gemini & Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.060498220640569395,Công cụ=Gemini & Nhận biết=Trung bình & Tin tưởng=Thấp
+0.06484776591538158,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình
+0.05970739422696718,Công cụ=Gemini & Nhận biết=Trung bình & Trả phí=Yes
+0.09213127718465797,Cho phép=No & Nhận biết=Trung bình & Trả phí=No
+0.06722024515618821,Nhận biết=Trung bình & Thiết bị=Laptop & Trả phí=No
+0.057334914986160536,Cho phép=No & Nhận biết=Trung bình & Thiết bị=Laptop
+0.05338078291814947,Công cụ=ChatGPT & Nhận biết=Trung bình & Thiết bị=Laptop
+0.05258995650454725,Giờ dùng=Từ 3h & Nhận biết=Trung bình & Thiết bị=Laptop
+0.054567022538552785,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Thiết bị=Laptop
+0.05219454329774614,Nhận biết=Trung bình & Thiết bị=Laptop & Trả phí=Yes
+0.06207987346777382,Cho phép=Yes & Nhận biết=Trung bình & Thiết bị=Laptop
+0.051008303677342826,Nhận biết=Trung bình & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.08224594701463028,Nhận biết=Trung bình & Trả phí=No & Ảnh hưởng điểm=Dương
+0.07552392249901146,Giờ dùng=Từ 3h & Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.07354685646500593,Cho phép=No & Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.05852115460656386,Công cụ=ChatGPT & Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.057334914986160536,Công cụ=Copilot & Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.07591933570581258,Cho phép=Yes & Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.06326611308817714,Nhận biết=Trung bình & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.06207987346777382,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.06722024515618821,Nhận biết=Trung bình & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.08145512060102808,Nhận biết=Trung bình & Tin tưởng=Thấp & Trả phí=No
+0.077500988533017,Cho phép=No & Nhận biết=Trung bình & Tin tưởng=Thấp
+0.0660340055357849,Giờ dùng=Từ 3h & Nhận biết=Trung bình & Tin tưởng=Thấp
+0.056544088572558326,Công cụ=ChatGPT & Nhận biết=Trung bình & Tin tưởng=Thấp
+0.055357848952155,Công cụ=Copilot & Nhận biết=Trung bình & Tin tưởng=Thấp
+0.05338078291814947,Nhận biết=Trung bình & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.0656385923289838,Nhận biết=Trung bình & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.06287069988137604,Nhận biết=Trung bình & Tin tưởng=Thấp & Trả phí=Yes
+0.06682483194938711,Cho phép=Yes & Nhận biết=Trung bình & Tin tưởng=Thấp
+0.06247528667457493,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Tin tưởng=Thấp
+0.0881771451166469,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Trả phí=No
+0.08738631870304468,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình
+0.07987346777382365,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Trả phí=Yes
+0.08066429418742586,Cho phép=No & Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình
+0.088572558323448,Cho phép=Yes & Nhận biết=Trung bình & Trả phí=Yes
+0.08501383946223803,Cho phép=No & Nhận biết=Trung bình & Trả phí=Yes
+0.17556346381969157,Cho phép=Yes & Internet=Medium
+0.17358639778568605,Internet=Medium & Trả phí=No
+0.15381573744563068,Giờ dùng=Từ 3h & Internet=Medium
+0.15104784499802293,Công cụ=ChatGPT & Internet=Medium
+0.143930407275603,Công cụ=Copilot & Internet=Medium
+0.1435349940688019,Internet=Medium & Ảnh hưởng điểm=Âm
+0.1423487544483986,Internet=Medium & Tin tưởng=Cao
+0.13364966389877422,Công cụ=Gemini & Internet=Medium
+0.12060102807433769,Internet=Medium & Nhận biết=Trung bình
+0.177145116646896,Cho phép=No & Internet=Medium
+0.143930407275603,Internet=Medium & Tin tưởng=Thấp
+0.17912218268090155,Internet=Medium & Trả phí=Yes
+0.16211941478845393,Internet=Medium & Ảnh hưởng điểm=Dương
+0.15856069592724398,Giờ dùng=1 đến dưới 3h & Internet=Medium
+0.1383946223803875,Internet=Medium & Thiết bị=Laptop
+0.09173586397785687,Cho phép=Yes & Internet=Medium & Trả phí=Yes
+0.08382759984183472,Cho phép=Yes & Internet=Medium & Trả phí=No
+0.08975879794385132,Cho phép=No & Internet=Medium & Trả phí=No
+0.07591933570581258,Giờ dùng=Từ 3h & Internet=Medium & Trả phí=No
+0.07433768287860815,Cho phép=Yes & Giờ dùng=Từ 3h & Internet=Medium
+0.07789640173981811,Giờ dùng=Từ 3h & Internet=Medium & Trả phí=Yes
+0.07947805456702253,Cho phép=No & Giờ dùng=Từ 3h & Internet=Medium
+0.07512850929221036,Giờ dùng=Từ 3h & Internet=Medium & Ảnh hưởng điểm=Dương
+0.07868722815342033,Cho phép=Yes & Công cụ=ChatGPT & Internet=Medium
+0.07671016211941478,Công cụ=ChatGPT & Internet=Medium & Trả phí=No
+0.06326611308817714,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Internet=Medium
+0.07433768287860815,Công cụ=ChatGPT & Internet=Medium & Trả phí=Yes
+0.07236061684460261,Cho phép=No & Công cụ=ChatGPT & Internet=Medium
+0.06998813760379596,Công cụ=ChatGPT & Internet=Medium & Ảnh hưởng điểm=Dương
+0.06761565836298933,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Internet=Medium
+0.08936338473705022,Công cụ=ChatGPT & Công cụ=Copilot & Internet=Medium
+0.07631474891261368,Cho phép=Yes & Công cụ=Copilot & Internet=Medium
+0.06880189798339265,Công cụ=Copilot & Internet=Medium & Trả phí=No
+0.060102807433768286,Công cụ=Copilot & Giờ dùng=Từ 3h & Internet=Medium
+0.07512850929221036,Công cụ=Copilot & Internet=Medium & Trả phí=Yes
+0.06761565836298933,Cho phép=No & Công cụ=Copilot & Internet=Medium
+0.0656385923289838,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Internet=Medium
+0.057334914986160536,Công cụ=Copilot & Internet=Medium & Tin tưởng=Thấp
+0.06484776591538158,Công cụ=Copilot & Internet=Medium & Ảnh hưởng điểm=Dương
+0.0719652036378015,Internet=Medium & Trả phí=No & Ảnh hưởng điểm=Âm
+0.06366152629497825,Cho phép=Yes & Internet=Medium & Ảnh hưởng điểm=Âm
+0.06287069988137604,Giờ dùng=Từ 3h & Internet=Medium & Ảnh hưởng điểm=Âm
+0.0608936338473705,Công cụ=ChatGPT & Internet=Medium & Ảnh hưởng điểm=Âm
+0.05575326215895611,Công cụ=Copilot & Internet=Medium & Ảnh hưởng điểm=Âm
+0.07987346777382365,Cho phép=No & Internet=Medium & Ảnh hưởng điểm=Âm
+0.06168446026097272,Internet=Medium & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.0715697904310004,Internet=Medium & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.06326611308817714,Giờ dùng=1 đến dưới 3h & Internet=Medium & Ảnh hưởng điểm=Âm
+0.06998813760379596,Internet=Medium & Tin tưởng=Cao & Trả phí=No
+0.06998813760379596,Cho phép=Yes & Internet=Medium & Tin tưởng=Cao
+0.06168446026097272,Công cụ=ChatGPT & Internet=Medium & Tin tưởng=Cao
+0.06168446026097272,Giờ dùng=Từ 3h & Internet=Medium & Tin tưởng=Cao
+0.05970739422696718,Internet=Medium & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.05852115460656386,Công cụ=Copilot & Internet=Medium & Tin tưởng=Cao
+0.07236061684460261,Cho phép=No & Internet=Medium & Tin tưởng=Cao
+0.07236061684460261,Internet=Medium & Tin tưởng=Cao & Trả phí=Yes
+0.06247528667457493,Internet=Medium & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.06207987346777382,Giờ dùng=1 đến dưới 3h & Internet=Medium & Tin tưởng=Cao
+0.066429418742586,Cho phép=Yes & Công cụ=Gemini & Internet=Medium
+0.06326611308817714,Công cụ=Gemini & Internet=Medium & Trả phí=No
+0.06207987346777382,Công cụ=Gemini & Giờ dùng=Từ 3h & Internet=Medium
+0.051799130090945035,Công cụ=Gemini & Internet=Medium & Ảnh hưởng điểm=Âm
+0.06722024515618821,Cho phép=No & Công cụ=Gemini & Internet=Medium
+0.05891656781336497,Công cụ=Gemini & Internet=Medium & Tin tưởng=Thấp
+0.07038355081059708,Công cụ=Gemini & Internet=Medium & Trả phí=Yes
+0.06366152629497825,Công cụ=Gemini & Internet=Medium & Ảnh hưởng điểm=Dương
+0.05931198102016608,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Internet=Medium
+0.051799130090945035,Công cụ=Gemini & Internet=Medium & Thiết bị=Laptop
+0.06445235270858046,Cho phép=Yes & Internet=Medium & Nhận biết=Trung bình
+0.06207987346777382,Internet=Medium & Nhận biết=Trung bình & Trả phí=No
+0.054962435745353894,Giờ dùng=Từ 3h & Internet=Medium & Nhận biết=Trung bình
+0.051008303677342826,Internet=Medium & Nhận biết=Trung bình & Tin tưởng=Cao
+0.05852115460656386,Internet=Medium & Nhận biết=Trung bình & Trả phí=Yes
+0.05614867536575722,Cho phép=No & Internet=Medium & Nhận biết=Trung bình
+0.053776196124950576,Giờ dùng=1 đến dưới 3h & Internet=Medium & Nhận biết=Trung bình
+0.054567022538552785,Internet=Medium & Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.08738631870304468,Cho phép=No & Internet=Medium & Trả phí=Yes
+0.07275603005140371,Cho phép=No & Internet=Medium & Tin tưởng=Thấp
+0.0715697904310004,Internet=Medium & Tin tưởng=Thấp & Trả phí=No
+0.07236061684460261,Internet=Medium & Tin tưởng=Thấp & Trả phí=Yes
+0.06445235270858046,Internet=Medium & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.06761565836298933,Giờ dùng=1 đến dưới 3h & Internet=Medium & Tin tưởng=Thấp
+0.0711743772241993,Cho phép=Yes & Internet=Medium & Tin tưởng=Thấp
+0.06128904705417161,Giờ dùng=Từ 3h & Internet=Medium & Tin tưởng=Thấp
+0.06247528667457493,Công cụ=ChatGPT & Internet=Medium & Tin tưởng=Thấp
+0.08461842625543693,Internet=Medium & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.07473309608540925,Cho phép=No & Internet=Medium & Ảnh hưởng điểm=Dương
+0.077500988533017,Internet=Medium & Trả phí=No & Ảnh hưởng điểm=Dương
+0.08738631870304468,Cho phép=Yes & Internet=Medium & Ảnh hưởng điểm=Dương
+0.077500988533017,Giờ dùng=1 đến dưới 3h & Internet=Medium & Trả phí=No
+0.07591933570581258,Cho phép=No & Giờ dùng=1 đến dưới 3h & Internet=Medium
+0.06840648477659154,Giờ dùng=1 đến dưới 3h & Internet=Medium & Ảnh hưởng điểm=Dương
+0.08105970739422697,Giờ dùng=1 đến dưới 3h & Internet=Medium & Trả phí=Yes
+0.0826413602214314,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Internet=Medium
+0.07038355081059708,Cho phép=No & Internet=Medium & Thiết bị=Laptop
+0.06761565836298933,Internet=Medium & Thiết bị=Laptop & Trả phí=Yes
+0.06405693950177936,Giờ dùng=1 đến dưới 3h & Internet=Medium & Thiết bị=Laptop
+0.06168446026097272,Công cụ=Copilot & Internet=Medium & Thiết bị=Laptop
+0.07077896401739818,Internet=Medium & Thiết bị=Laptop & Trả phí=No
+0.06722024515618821,Internet=Medium & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.06524317912218268,Công cụ=ChatGPT & Internet=Medium & Thiết bị=Laptop
+0.05970739422696718,Internet=Medium & Thiết bị=Laptop & Tin tưởng=Cao
+0.054962435745353894,Internet=Medium & Thiết bị=Laptop & Tin tưởng=Thấp
+0.06801107156979043,Cho phép=Yes & Internet=Medium & Thiết bị=Laptop
+0.05891656781336497,Giờ dùng=Từ 3h & Internet=Medium & Thiết bị=Laptop
+0.053776196124950576,Internet=Medium & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.16291024120205616,Thiết bị=Tablet & Trả phí=No
+0.15104784499802293,Cho phép=Yes & Thiết bị=Tablet
+0.1435349940688019,Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.1368129695531831,Công cụ=ChatGPT & Thiết bị=Tablet
+0.13364966389877422,Giờ dùng=Từ 3h & Thiết bị=Tablet
+0.1324634242783709,Nhận biết=Trung bình & Thiết bị=Tablet
+0.12930011862396204,Thiết bị=Tablet & Tin tưởng=Cao
+0.1277184657967576,Công cụ=Copilot & Thiết bị=Tablet
+0.11941478845393436,Công cụ=Gemini & Thiết bị=Tablet
+0.11704230921312772,Internet=Medium & Thiết bị=Tablet
+0.18030842230130487,Cho phép=No & Thiết bị=Tablet
+0.14827995255041518,Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet
+0.1423487544483986,Thiết bị=Tablet & Ảnh hưởng điểm=Dương
+0.1111111111111111,Internet=Poor & Thiết bị=Tablet
+0.10201660735468565,Nhận biết=Cao & Thiết bị=Tablet
+0.13167259786476868,Thiết bị=Tablet & Tin tưởng=Thấp
+0.16844602609727166,Thiết bị=Tablet & Trả phí=Yes
+0.09094503756425465,Cho phép=No & Thiết bị=Tablet & Trả phí=No
+0.0719652036378015,Cho phép=Yes & Thiết bị=Tablet & Trả phí=No
+0.07908264136022143,Cho phép=Yes & Thiết bị=Tablet & Trả phí=Yes
+0.0719652036378015,Thiết bị=Tablet & Trả phí=No & Ảnh hưởng điểm=Âm
+0.05614867536575722,Cho phép=Yes & Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.08738631870304468,Cho phép=No & Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.0715697904310004,Thiết bị=Tablet & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.05812574139976275,Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.06326611308817714,Cho phép=Yes & Công cụ=ChatGPT & Thiết bị=Tablet
+0.06287069988137604,Công cụ=ChatGPT & Thiết bị=Tablet & Trả phí=No
+0.051403716884143934,Công cụ=ChatGPT & Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.07354685646500593,Cho phép=No & Công cụ=ChatGPT & Thiết bị=Tablet
+0.07394226967180703,Công cụ=ChatGPT & Thiết bị=Tablet & Trả phí=Yes
+0.060102807433768286,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet
+0.057334914986160536,Công cụ=ChatGPT & Thiết bị=Tablet & Ảnh hưởng điểm=Dương
+0.0608936338473705,Giờ dùng=Từ 3h & Thiết bị=Tablet & Trả phí=No
+0.057334914986160536,Cho phép=Yes & Giờ dùng=Từ 3h & Thiết bị=Tablet
+0.05219454329774614,Giờ dùng=Từ 3h & Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.07275603005140371,Giờ dùng=Từ 3h & Thiết bị=Tablet & Trả phí=Yes
+0.07631474891261368,Cho phép=No & Giờ dùng=Từ 3h & Thiết bị=Tablet
+0.066429418742586,Giờ dùng=Từ 3h & Thiết bị=Tablet & Ảnh hưởng điểm=Dương
+0.06761565836298933,Cho phép=Yes & Nhận biết=Trung bình & Thiết bị=Tablet
+0.06524317912218268,Nhận biết=Trung bình & Thiết bị=Tablet & Trả phí=No
+0.060498220640569395,Nhận biết=Trung bình & Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.05931198102016608,Giờ dùng=Từ 3h & Nhận biết=Trung bình & Thiết bị=Tablet
+0.051008303677342826,Công cụ=ChatGPT & Nhận biết=Trung bình & Thiết bị=Tablet
+0.06287069988137604,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Thiết bị=Tablet
+0.06722024515618821,Nhận biết=Trung bình & Thiết bị=Tablet & Trả phí=Yes
+0.06484776591538158,Cho phép=No & Nhận biết=Trung bình & Thiết bị=Tablet
+0.06247528667457493,Thiết bị=Tablet & Tin tưởng=Cao & Trả phí=No
+0.05931198102016608,Thiết bị=Tablet & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.05891656781336497,Công cụ=ChatGPT & Thiết bị=Tablet & Tin tưởng=Cao
+0.057334914986160536,Cho phép=Yes & Thiết bị=Tablet & Tin tưởng=Cao
+0.05417160933175168,Nhận biết=Trung bình & Thiết bị=Tablet & Tin tưởng=Cao
+0.05219454329774614,Giờ dùng=Từ 3h & Thiết bị=Tablet & Tin tưởng=Cao
+0.0719652036378015,Cho phép=No & Thiết bị=Tablet & Tin tưởng=Cao
+0.057730328192961644,Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet & Tin tưởng=Cao
+0.05258995650454725,Thiết bị=Tablet & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.06682483194938711,Thiết bị=Tablet & Tin tưởng=Cao & Trả phí=Yes
+0.07354685646500593,Công cụ=ChatGPT & Công cụ=Copilot & Thiết bị=Tablet
+0.06247528667457493,Công cụ=Copilot & Thiết bị=Tablet & Trả phí=No
+0.060102807433768286,Cho phép=Yes & Công cụ=Copilot & Thiết bị=Tablet
+0.05852115460656386,Công cụ=Copilot & Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.05693950177935943,Công cụ=Copilot & Nhận biết=Trung bình & Thiết bị=Tablet
+0.06761565836298933,Cho phép=No & Công cụ=Copilot & Thiết bị=Tablet
+0.06524317912218268,Công cụ=Copilot & Thiết bị=Tablet & Trả phí=Yes
+0.056544088572558326,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet
+0.05970739422696718,Công cụ=Gemini & Thiết bị=Tablet & Trả phí=No
+0.054962435745353894,Cho phép=Yes & Công cụ=Gemini & Thiết bị=Tablet
+0.051008303677342826,Công cụ=Gemini & Giờ dùng=Từ 3h & Thiết bị=Tablet
+0.05575326215895611,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet
+0.05338078291814947,Công cụ=Gemini & Thiết bị=Tablet & Ảnh hưởng điểm=Dương
+0.06445235270858046,Cho phép=No & Công cụ=Gemini & Thiết bị=Tablet
+0.05693950177935943,Công cụ=Gemini & Thiết bị=Tablet & Tin tưởng=Thấp
+0.05970739422696718,Công cụ=Gemini & Thiết bị=Tablet & Trả phí=Yes
+0.057730328192961644,Cho phép=Yes & Internet=Medium & Thiết bị=Tablet
+0.05575326215895611,Internet=Medium & Thiết bị=Tablet & Trả phí=No
+0.051799130090945035,Internet=Medium & Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.05931198102016608,Cho phép=No & Internet=Medium & Thiết bị=Tablet
+0.06128904705417161,Internet=Medium & Thiết bị=Tablet & Trả phí=Yes
+0.05298536971134836,Giờ dùng=1 đến dưới 3h & Internet=Medium & Thiết bị=Tablet
+0.07473309608540925,Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet & Trả phí=No
+0.06919731119019375,Cho phép=No & Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet
+0.07908264136022143,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet
+0.07354685646500593,Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet & Trả phí=Yes
+0.07315144325820483,Cho phép=No & Thiết bị=Tablet & Ảnh hưởng điểm=Dương
+0.07236061684460261,Thiết bị=Tablet & Trả phí=No & Ảnh hưởng điểm=Dương
+0.06405693950177936,Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet & Ảnh hưởng điểm=Dương
+0.06919731119019375,Cho phép=Yes & Thiết bị=Tablet & Ảnh hưởng điểm=Dương
+0.06998813760379596,Thiết bị=Tablet & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.06366152629497825,Cho phép=No & Internet=Poor & Thiết bị=Tablet
+0.056544088572558326,Internet=Poor & Thiết bị=Tablet & Trả phí=No
+0.05061289047054172,Internet=Poor & Thiết bị=Tablet & Ảnh hưởng điểm=Âm
+0.054567022538552785,Internet=Poor & Thiết bị=Tablet & Trả phí=Yes
+0.066429418742586,Cho phép=No & Nhận biết=Cao & Thiết bị=Tablet
+0.05021747726374061,Nhận biết=Cao & Thiết bị=Tablet & Trả phí=No
+0.051799130090945035,Nhận biết=Cao & Thiết bị=Tablet & Trả phí=Yes
+0.07077896401739818,Cho phép=No & Thiết bị=Tablet & Tin tưởng=Thấp
+0.06682483194938711,Thiết bị=Tablet & Tin tưởng=Thấp & Trả phí=No
+0.051403716884143934,Thiết bị=Tablet & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.06484776591538158,Thiết bị=Tablet & Tin tưởng=Thấp & Trả phí=Yes
+0.055357848952155,Nhận biết=Trung bình & Thiết bị=Tablet & Tin tưởng=Thấp
+0.0608936338473705,Cho phép=Yes & Thiết bị=Tablet & Tin tưởng=Thấp
+0.05258995650454725,Giờ dùng=Từ 3h & Thiết bị=Tablet & Tin tưởng=Thấp
+0.06405693950177936,Giờ dùng=1 đến dưới 3h & Thiết bị=Tablet & Tin tưởng=Thấp
+0.06168446026097272,Thiết bị=Tablet & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.08936338473705022,Cho phép=No & Thiết bị=Tablet & Trả phí=Yes
+0.1265322261763543,Cho phép=Yes & Năm học=4
+0.11901937524713326,Năm học=4 & Trả phí=No
+0.10676156583629894,Năm học=4 & Ảnh hưởng điểm=Âm
+0.10399367338869119,Công cụ=Copilot & Năm học=4
+0.10201660735468565,Giờ dùng=Từ 3h & Năm học=4
+0.10122578094108343,Công cụ=Gemini & Năm học=4
+0.0992487149070779,Năm học=4 & Tin tưởng=Cao
+0.09687623566627125,Công cụ=ChatGPT & Năm học=4
+0.09489916963226572,Nhận biết=Trung bình & Năm học=4
+0.09173586397785687,Internet=Medium & Năm học=4
+0.088572558323448,Năm học=4 & Thiết bị=Tablet
+0.12297350731514432,Cho phép=No & Năm học=4
+0.11071569790431,Năm học=4 & Ảnh hưởng điểm=Dương
+0.10597073942269672,Năm học=4 & Tin tưởng=Thấp
+0.07631474891261368,Năm học=4 & Thiết bị=Mobile
+0.07394226967180703,Internet=High & Năm học=4
+0.12336892052194544,Giờ dùng=1 đến dưới 3h & Năm học=4
+0.13048635824436536,Năm học=4 & Trả phí=Yes
+0.07789640173981811,Nhận biết=Cao & Năm học=4
+0.08382759984183472,Internet=Poor & Năm học=4
+0.07671016211941478,Nhận biết=Thấp & Năm học=4
+0.08461842625543693,Năm học=4 & Thiết bị=Laptop
+0.06801107156979043,Cho phép=Yes & Năm học=4 & Trả phí=Yes
+0.05852115460656386,Cho phép=Yes & Năm học=4 & Trả phí=No
+0.060498220640569395,Cho phép=No & Năm học=4 & Trả phí=No
+0.060498220640569395,Giờ dùng=1 đến dưới 3h & Năm học=4 & Trả phí=No
+0.05298536971134836,Năm học=4 & Trả phí=No & Ảnh hưởng điểm=Âm
+0.05219454329774614,Cho phép=Yes & Năm học=4 & Ảnh hưởng điểm=Âm
+0.053776196124950576,Năm học=4 & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.054567022538552785,Cho phép=No & Năm học=4 & Ảnh hưởng điểm=Âm
+0.054567022538552785,Cho phép=Yes & Công cụ=Copilot & Năm học=4
+0.05575326215895611,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Năm học=4
+0.055357848952155,Công cụ=Copilot & Năm học=4 & Trả phí=Yes
+0.054567022538552785,Cho phép=Yes & Giờ dùng=Từ 3h & Năm học=4
+0.054567022538552785,Giờ dùng=Từ 3h & Năm học=4 & Trả phí=Yes
+0.05417160933175168,Cho phép=Yes & Công cụ=Gemini & Năm học=4
+0.05021747726374061,Công cụ=Gemini & Năm học=4 & Trả phí=No
+0.051008303677342826,Công cụ=Gemini & Năm học=4 & Tin tưởng=Thấp
+0.05021747726374061,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Năm học=4
+0.051008303677342826,Công cụ=Gemini & Năm học=4 & Trả phí=Yes
+0.05258995650454725,Giờ dùng=1 đến dưới 3h & Năm học=4 & Tin tưởng=Cao
+0.051799130090945035,Năm học=4 & Tin tưởng=Cao & Trả phí=Yes
+0.05021747726374061,Cho phép=No & Năm học=4 & Tin tưởng=Cao
+0.0608936338473705,Công cụ=ChatGPT & Công cụ=Copilot & Năm học=4
+0.051799130090945035,Công cụ=ChatGPT & Năm học=4 & Trả phí=Yes
+0.05021747726374061,Nhận biết=Trung bình & Năm học=4 & Trả phí=Yes
+0.06247528667457493,Cho phép=No & Năm học=4 & Trả phí=Yes
+0.06366152629497825,Cho phép=No & Giờ dùng=1 đến dưới 3h & Năm học=4
+0.06207987346777382,Cho phép=Yes & Năm học=4 & Ảnh hưởng điểm=Dương
+0.05258995650454725,Giờ dùng=1 đến dưới 3h & Năm học=4 & Ảnh hưởng điểm=Dương
+0.0608936338473705,Năm học=4 & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.05219454329774614,Cho phép=No & Năm học=4 & Tin tưởng=Thấp
+0.05061289047054172,Năm học=4 & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.05021747726374061,Năm học=4 & Tin tưởng=Thấp & Trả phí=No
+0.05575326215895611,Năm học=4 & Tin tưởng=Thấp & Trả phí=Yes
+0.053776196124950576,Cho phép=Yes & Năm học=4 & Tin tưởng=Thấp
+0.05298536971134836,Giờ dùng=1 đến dưới 3h & Năm học=4 & Tin tưởng=Thấp
+0.05970739422696718,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Năm học=4
+0.06287069988137604,Giờ dùng=1 đến dưới 3h & Năm học=4 & Trả phí=Yes
+0.11071569790431,Cho phép=Yes & Ưa thích=Other
+0.10162119414788454,Công cụ=ChatGPT & Ưa thích=Other
+0.10043495452748122,Trả phí=No & Ưa thích=Other
+0.09292210359826018,Ưa thích=Other & Ảnh hưởng điểm=Âm
+0.09213127718465797,Công cụ=Copilot & Ưa thích=Other
+0.08896797153024912,Công cụ=Gemini & Ưa thích=Other
+0.08185053380782918,Nhận biết=Trung bình & Ưa thích=Other
+0.07829181494661921,Giờ dùng=Từ 3h & Ưa thích=Other
+0.07789640173981811,Tin tưởng=Cao & Ưa thích=Other
+0.07671016211941478,Internet=Medium & Ưa thích=Other
+0.07631474891261368,Thiết bị=Tablet & Ưa thích=Other
+0.05219454329774614,Năm học=4 & Ưa thích=Other
+0.0992487149070779,Giờ dùng=1 đến dưới 3h & Ưa thích=Other
+0.09806247528667457,Cho phép=No & Ưa thích=Other
+0.08026888098062475,Ưa thích=Other & Ảnh hưởng điểm=Dương
+0.06880189798339265,Internet=Poor & Ưa thích=Other
+0.06801107156979043,Nhận biết=Cao & Ưa thích=Other
+0.08975879794385132,Tin tưởng=Thấp & Ưa thích=Other
+0.05891656781336497,Nhận biết=Thấp & Ưa thích=Other
+0.05219454329774614,Năm học=1 & Ưa thích=Other
+0.10834321866350335,Trả phí=Yes & Ưa thích=Other
+0.07473309608540925,Thiết bị=Laptop & Ưa thích=Other
+0.06326611308817714,Internet=High & Ưa thích=Other
+0.0608936338473705,Năm học=3 & Ưa thích=Other
+0.057730328192961644,Thiết bị=Mobile & Ưa thích=Other
+0.057730328192961644,Cho phép=Yes & Công cụ=ChatGPT & Ưa thích=Other
+0.05417160933175168,Công cụ=ChatGPT & Trả phí=Yes & Ưa thích=Other
+0.05298536971134836,Cho phép=Yes & Trả phí=No & Ưa thích=Other
+0.05219454329774614,Cho phép=Yes & Ưa thích=Other & Ảnh hưởng điểm=Âm
+0.06326611308817714,Công cụ=ChatGPT & Công cụ=Copilot & Ưa thích=Other
+0.05258995650454725,Cho phép=Yes & Công cụ=Copilot & Ưa thích=Other
+0.05970739422696718,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Ưa thích=Other
+0.053776196124950576,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Ưa thích=Other
+0.05298536971134836,Giờ dùng=1 đến dưới 3h & Trả phí=Yes & Ưa thích=Other
+0.05061289047054172,Cho phép=No & Trả phí=Yes & Ưa thích=Other
+0.05258995650454725,Cho phép=Yes & Tin tưởng=Thấp & Ưa thích=Other
+0.057730328192961644,Cho phép=Yes & Trả phí=Yes & Ưa thích=Other
+0.08699090549624358,Mục đích=Learning new topics & Trả phí=No
+0.07947805456702253,Công cụ=ChatGPT & Mục đích=Learning new topics
+0.0771055753262159,Mục đích=Learning new topics & Ảnh hưởng điểm=Âm
+0.07354685646500593,Cho phép=Yes & Mục đích=Learning new topics
+0.07038355081059708,Giờ dùng=Từ 3h & Mục đích=Learning new topics
+0.06998813760379596,Công cụ=Copilot & Mục đích=Learning new topics
+0.06840648477659154,Mục đích=Learning new topics & Thiết bị=Tablet
+0.06722024515618821,Mục đích=Learning new topics & Nhận biết=Trung bình
+0.066429418742586,Mục đích=Learning new topics & Tin tưởng=Cao
+0.05812574139976275,Công cụ=Gemini & Mục đích=Learning new topics
+0.057334914986160536,Internet=Medium & Mục đích=Learning new topics
+0.0992487149070779,Cho phép=No & Mục đích=Learning new topics
+0.08580466587584025,Mục đích=Learning new topics & Trả phí=Yes
+0.07671016211941478,Giờ dùng=1 đến dưới 3h & Mục đích=Learning new topics
+0.06326611308817714,Internet=Poor & Mục đích=Learning new topics
+0.051008303677342826,Mục đích=Learning new topics & Thiết bị=Laptop
+0.08105970739422697,Mục đích=Learning new topics & Ảnh hưởng điểm=Dương
+0.06405693950177936,Mục đích=Learning new topics & Nhận biết=Cao
+0.051799130090945035,Mục đích=Learning new topics & Ưa thích=Gemini
+0.06366152629497825,Mục đích=Learning new topics & Tin tưởng=Thấp
+0.05338078291814947,Mục đích=Learning new topics & Thiết bị=Mobile
+0.05219454329774614,Internet=High & Mục đích=Learning new topics
+0.05258995650454725,Cho phép=No & Mục đích=Learning new topics & Trả phí=No
+0.19256623171213919,Thiết bị=Laptop & Trả phí=No
+0.18307631474891262,Cho phép=No & Thiết bị=Laptop
+0.1712139185448794,Công cụ=ChatGPT & Thiết bị=Laptop
+0.16725978647686832,Công cụ=Copilot & Thiết bị=Laptop
+0.1609331751680506,Giờ dùng=Từ 3h & Thiết bị=Laptop
+0.15935152234084618,Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.15144325820482404,Thiết bị=Laptop & Tin tưởng=Cao
+0.18109924871490707,Thiết bị=Laptop & Trả phí=Yes
+0.17200474495848161,Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop
+0.14669829972321075,Công cụ=Gemini & Thiết bị=Laptop
+0.17200474495848161,Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.1498616053776196,Thiết bị=Laptop & Tin tưởng=Thấp
+0.19058916567813364,Cho phép=Yes & Thiết bị=Laptop
+0.0937129300118624,Cho phép=No & Thiết bị=Laptop & Trả phí=No
+0.08936338473705022,Công cụ=ChatGPT & Thiết bị=Laptop & Trả phí=No
+0.07433768287860815,Cho phép=No & Công cụ=ChatGPT & Thiết bị=Laptop
+0.08185053380782918,Công cụ=ChatGPT & Thiết bị=Laptop & Trả phí=Yes
+0.07671016211941478,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop
+0.08461842625543693,Công cụ=ChatGPT & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.09687623566627125,Cho phép=Yes & Công cụ=ChatGPT & Thiết bị=Laptop
+0.10755239224990115,Công cụ=ChatGPT & Công cụ=Copilot & Thiết bị=Laptop
+0.07908264136022143,Công cụ=Copilot & Thiết bị=Laptop & Trả phí=No
+0.07631474891261368,Cho phép=No & Công cụ=Copilot & Thiết bị=Laptop
+0.0881771451166469,Công cụ=Copilot & Thiết bị=Laptop & Trả phí=Yes
+0.07947805456702253,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop
+0.09094503756425465,Cho phép=Yes & Công cụ=Copilot & Thiết bị=Laptop
+0.07868722815342033,Công cụ=Copilot & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.08620007908264136,Cho phép=No & Giờ dùng=Từ 3h & Thiết bị=Laptop
+0.08422301304863583,Giờ dùng=Từ 3h & Thiết bị=Laptop & Trả phí=No
+0.07631474891261368,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Thiết bị=Laptop
+0.06880189798339265,Công cụ=Copilot & Giờ dùng=Từ 3h & Thiết bị=Laptop
+0.08026888098062475,Giờ dùng=Từ 3h & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.07671016211941478,Giờ dùng=Từ 3h & Thiết bị=Laptop & Trả phí=Yes
+0.07473309608540925,Cho phép=Yes & Giờ dùng=Từ 3h & Thiết bị=Laptop
+0.08461842625543693,Cho phép=No & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.08461842625543693,Thiết bị=Laptop & Trả phí=No & Ảnh hưởng điểm=Âm
+0.07275603005140371,Công cụ=ChatGPT & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.06722024515618821,Giờ dùng=Từ 3h & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.06722024515618821,Công cụ=Copilot & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.07473309608540925,Thiết bị=Laptop & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.07354685646500593,Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.07473309608540925,Cho phép=Yes & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.0830367734282325,Cho phép=No & Thiết bị=Laptop & Tin tưởng=Cao
+0.07473309608540925,Thiết bị=Laptop & Tin tưởng=Cao & Trả phí=No
+0.07394226967180703,Công cụ=Copilot & Thiết bị=Laptop & Tin tưởng=Cao
+0.06880189798339265,Công cụ=ChatGPT & Thiết bị=Laptop & Tin tưởng=Cao
+0.06801107156979043,Giờ dùng=Từ 3h & Thiết bị=Laptop & Tin tưởng=Cao
+0.06682483194938711,Thiết bị=Laptop & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.07671016211941478,Thiết bị=Laptop & Tin tưởng=Cao & Trả phí=Yes
+0.06840648477659154,Cho phép=Yes & Thiết bị=Laptop & Tin tưởng=Cao
+0.0656385923289838,Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop & Tin tưởng=Cao
+0.06405693950177936,Thiết bị=Laptop & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.08936338473705022,Cho phép=No & Thiết bị=Laptop & Trả phí=Yes
+0.09173586397785687,Cho phép=Yes & Thiết bị=Laptop & Trả phí=Yes
+0.08580466587584025,Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop & Trả phí=Yes
+0.08105970739422697,Cho phép=No & Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop
+0.07236061684460261,Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.09094503756425465,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop
+0.08620007908264136,Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop & Trả phí=No
+0.07315144325820483,Cho phép=No & Công cụ=Gemini & Thiết bị=Laptop
+0.06880189798339265,Công cụ=Gemini & Thiết bị=Laptop & Trả phí=Yes
+0.0660340055357849,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop
+0.06484776591538158,Công cụ=Gemini & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.07354685646500593,Cho phép=Yes & Công cụ=Gemini & Thiết bị=Laptop
+0.05021747726374061,Công cụ=Gemini & Thiết bị=Laptop & Tin tưởng=Cao
+0.05021747726374061,Công cụ=Copilot & Công cụ=Gemini & Thiết bị=Laptop
+0.05021747726374061,Công cụ=ChatGPT & Công cụ=Gemini & Thiết bị=Laptop
+0.07789640173981811,Công cụ=Gemini & Thiết bị=Laptop & Trả phí=No
+0.0656385923289838,Công cụ=Gemini & Thiết bị=Laptop & Tin tưởng=Thấp
+0.06484776591538158,Công cụ=Gemini & Giờ dùng=Từ 3h & Thiết bị=Laptop
+0.06919731119019375,Công cụ=Gemini & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.08699090549624358,Thiết bị=Laptop & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.07433768287860815,Cho phép=No & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.09766706207987347,Cho phép=Yes & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.08501383946223803,Thiết bị=Laptop & Trả phí=No & Ảnh hưởng điểm=Dương
+0.07236061684460261,Thiết bị=Laptop & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.07236061684460261,Cho phép=No & Thiết bị=Laptop & Tin tưởng=Thấp
+0.0715697904310004,Thiết bị=Laptop & Tin tưởng=Thấp & Trả phí=Yes
+0.06998813760379596,Giờ dùng=1 đến dưới 3h & Thiết bị=Laptop & Tin tưởng=Thấp
+0.06801107156979043,Công cụ=ChatGPT & Thiết bị=Laptop & Tin tưởng=Thấp
+0.07829181494661921,Thiết bị=Laptop & Tin tưởng=Thấp & Trả phí=No
+0.077500988533017,Cho phép=Yes & Thiết bị=Laptop & Tin tưởng=Thấp
+0.06445235270858046,Công cụ=Copilot & Thiết bị=Laptop & Tin tưởng=Thấp
+0.06326611308817714,Thiết bị=Laptop & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.06287069988137604,Giờ dùng=Từ 3h & Thiết bị=Laptop & Tin tưởng=Thấp
+0.09885330170027679,Cho phép=Yes & Thiết bị=Laptop & Trả phí=No
+0.15856069592724398,Cho phép=No & Internet=High
+0.15697904310003954,Internet=High & Trả phí=No
+0.13720838275998418,Công cụ=ChatGPT & Internet=High
+0.1312771846579676,Internet=High & Ảnh hưởng điểm=Âm
+0.12890470541716093,Công cụ=Copilot & Internet=High
+0.12811387900355872,Internet=High & Tin tưởng=Cao
+0.12811387900355872,Giờ dùng=Từ 3h & Internet=High
+0.11506524317912219,Internet=High & Nhận biết=Trung bình
+0.11269276393831554,Internet=High & Thiết bị=Laptop
+0.1486753657572163,Internet=High & Trả phí=Yes
+0.13720838275998418,Giờ dùng=1 đến dưới 3h & Internet=High
+0.11466982997232107,Công cụ=Gemini & Internet=High
+0.1320680110715698,Internet=High & Ảnh hưởng điểm=Dương
+0.11941478845393436,Internet=High & Tin tưởng=Thấp
+0.14709371293001186,Cho phép=Yes & Internet=High
+0.10320284697508897,Internet=High & Thiết bị=Tablet
+0.1051799130090945,Internet=High & Nhận biết=Cao
+0.0830367734282325,Cho phép=No & Internet=High & Trả phí=No
+0.07236061684460261,Công cụ=ChatGPT & Internet=High & Trả phí=No
+0.0715697904310004,Cho phép=No & Công cụ=ChatGPT & Internet=High
+0.0656385923289838,Cho phép=Yes & Công cụ=ChatGPT & Internet=High
+0.06484776591538158,Công cụ=ChatGPT & Internet=High & Trả phí=Yes
+0.06445235270858046,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Internet=High
+0.07394226967180703,Cho phép=No & Internet=High & Ảnh hưởng điểm=Âm
+0.06524317912218268,Internet=High & Trả phí=No & Ảnh hưởng điểm=Âm
+0.05417160933175168,Công cụ=ChatGPT & Internet=High & Ảnh hưởng điểm=Âm
+0.0660340055357849,Internet=High & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.05891656781336497,Giờ dùng=1 đến dưới 3h & Internet=High & Ảnh hưởng điểm=Âm
+0.057334914986160536,Cho phép=Yes & Internet=High & Ảnh hưởng điểm=Âm
+0.07908264136022143,Công cụ=ChatGPT & Công cụ=Copilot & Internet=High
+0.06840648477659154,Cho phép=No & Công cụ=Copilot & Internet=High
+0.06524317912218268,Công cụ=Copilot & Internet=High & Trả phí=No
+0.05614867536575722,Công cụ=Copilot & Internet=High & Ảnh hưởng điểm=Âm
+0.05021747726374061,Công cụ=Copilot & Internet=High & Ảnh hưởng điểm=Dương
+0.06405693950177936,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Internet=High
+0.060498220640569395,Cho phép=Yes & Công cụ=Copilot & Internet=High
+0.06366152629497825,Công cụ=Copilot & Internet=High & Trả phí=Yes
+0.06959272439699486,Cho phép=No & Internet=High & Tin tưởng=Cao
+0.06207987346777382,Công cụ=ChatGPT & Internet=High & Tin tưởng=Cao
+0.06168446026097272,Internet=High & Tin tưởng=Cao & Trả phí=No
+0.05931198102016608,Công cụ=Copilot & Internet=High & Tin tưởng=Cao
+0.05693950177935943,Internet=High & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.05852115460656386,Cho phép=Yes & Internet=High & Tin tưởng=Cao
+0.057730328192961644,Giờ dùng=1 đến dưới 3h & Internet=High & Tin tưởng=Cao
+0.05219454329774614,Internet=High & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.066429418742586,Internet=High & Tin tưởng=Cao & Trả phí=Yes
+0.0656385923289838,Cho phép=No & Giờ dùng=Từ 3h & Internet=High
+0.06326611308817714,Giờ dùng=Từ 3h & Internet=High & Trả phí=No
+0.053776196124950576,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Internet=High
+0.05338078291814947,Giờ dùng=Từ 3h & Internet=High & Tin tưởng=Cao
+0.05061289047054172,Giờ dùng=Từ 3h & Internet=High & Ảnh hưởng điểm=Âm
+0.06287069988137604,Giờ dùng=Từ 3h & Internet=High & Ảnh hưởng điểm=Dương
+0.06484776591538158,Giờ dùng=Từ 3h & Internet=High & Trả phí=Yes
+0.06247528667457493,Cho phép=Yes & Giờ dùng=Từ 3h & Internet=High
+0.06247528667457493,Internet=High & Nhận biết=Trung bình & Trả phí=No
+0.057730328192961644,Cho phép=No & Internet=High & Nhận biết=Trung bình
+0.051008303677342826,Internet=High & Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.057334914986160536,Cho phép=Yes & Internet=High & Nhận biết=Trung bình
+0.055357848952155,Giờ dùng=1 đến dưới 3h & Internet=High & Nhận biết=Trung bình
+0.05258995650454725,Internet=High & Nhận biết=Trung bình & Trả phí=Yes
+0.06168446026097272,Internet=High & Thiết bị=Laptop & Trả phí=No
+0.05575326215895611,Internet=High & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.055357848952155,Cho phép=No & Internet=High & Thiết bị=Laptop
+0.05061289047054172,Giờ dùng=Từ 3h & Internet=High & Thiết bị=Laptop
+0.051008303677342826,Internet=High & Thiết bị=Laptop & Trả phí=Yes
+0.057334914986160536,Cho phép=Yes & Internet=High & Thiết bị=Laptop
+0.07552392249901146,Cho phép=No & Internet=High & Trả phí=Yes
+0.06880189798339265,Cho phép=No & Giờ dùng=1 đến dưới 3h & Internet=High
+0.06445235270858046,Giờ dùng=1 đến dưới 3h & Internet=High & Trả phí=Yes
+0.07275603005140371,Giờ dùng=1 đến dưới 3h & Internet=High & Trả phí=No
+0.06840648477659154,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Internet=High
+0.05852115460656386,Cho phép=No & Công cụ=Gemini & Internet=High
+0.05417160933175168,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Internet=High
+0.05298536971134836,Công cụ=Gemini & Internet=High & Trả phí=Yes
+0.06168446026097272,Công cụ=Gemini & Internet=High & Trả phí=No
+0.051008303677342826,Công cụ=Gemini & Internet=High & Tin tưởng=Thấp
+0.051008303677342826,Công cụ=Gemini & Internet=High & Ảnh hưởng điểm=Dương
+0.05614867536575722,Cho phép=Yes & Công cụ=Gemini & Internet=High
+0.07315144325820483,Internet=High & Trả phí=No & Ảnh hưởng điểm=Dương
+0.060498220640569395,Cho phép=No & Internet=High & Ảnh hưởng điểm=Dương
+0.05812574139976275,Công cụ=ChatGPT & Internet=High & Ảnh hưởng điểm=Dương
+0.0715697904310004,Cho phép=Yes & Internet=High & Ảnh hưởng điểm=Dương
+0.057730328192961644,Giờ dùng=1 đến dưới 3h & Internet=High & Ảnh hưởng điểm=Dương
+0.05891656781336497,Internet=High & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.06366152629497825,Internet=High & Tin tưởng=Thấp & Trả phí=No
+0.05931198102016608,Cho phép=No & Internet=High & Tin tưởng=Thấp
+0.057730328192961644,Internet=High & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.05575326215895611,Giờ dùng=Từ 3h & Internet=High & Tin tưởng=Thấp
+0.051403716884143934,Công cụ=ChatGPT & Internet=High & Tin tưởng=Thấp
+0.05575326215895611,Internet=High & Tin tưởng=Thấp & Trả phí=Yes
+0.060102807433768286,Cho phép=Yes & Internet=High & Tin tưởng=Thấp
+0.07394226967180703,Cho phép=Yes & Internet=High & Trả phí=No
+0.07315144325820483,Cho phép=Yes & Internet=High & Trả phí=Yes
+0.05061289047054172,Internet=High & Thiết bị=Tablet & Trả phí=No
+0.05021747726374061,Giờ dùng=1 đến dưới 3h & Internet=High & Thiết bị=Tablet
+0.057334914986160536,Cho phép=No & Internet=High & Thiết bị=Tablet
+0.05258995650454725,Internet=High & Thiết bị=Tablet & Trả phí=Yes
+0.056544088572558326,Cho phép=No & Internet=High & Nhận biết=Cao
+0.05338078291814947,Internet=High & Nhận biết=Cao & Trả phí=Yes
+0.051403716884143934,Công cụ=ChatGPT & Internet=High & Nhận biết=Cao
+0.051799130090945035,Internet=High & Nhận biết=Cao & Trả phí=No
+0.1431395808620008,Cho phép=No & Năm học=2
+0.13364966389877422,Năm học=2 & Trả phí=No
+0.12495057334914986,Công cụ=ChatGPT & Năm học=2
+0.11783313562672994,Công cụ=Copilot & Năm học=2
+0.11506524317912219,Giờ dùng=Từ 3h & Năm học=2
+0.11387900355871886,Năm học=2 & Tin tưởng=Cao
+0.11150652431791222,Năm học=2 & Thiết bị=Laptop
+0.1103202846975089,Năm học=2 & Ảnh hưởng điểm=Âm
+0.08540925266903915,Internet=High & Năm học=2
+0.07671016211941478,Nhận biết=Trung bình & Năm học=2
+0.12890470541716093,Năm học=2 & Trả phí=Yes
+0.1111111111111111,Giờ dùng=1 đến dưới 3h & Năm học=2
+0.09292210359826018,Công cụ=Gemini & Năm học=2
+0.06366152629497825,Nhận biết=Thấp & Năm học=2
+0.1221826809015421,Nhận biết=Cao & Năm học=2
+0.11546065638592329,Năm học=2 & Ảnh hưởng điểm=Dương
+0.08699090549624358,Internet=Poor & Năm học=2
+0.07908264136022143,Năm học=2 & Thiết bị=Tablet
+0.11941478845393436,Cho phép=Yes & Năm học=2
+0.0719652036378015,Năm học=2 & Thiết bị=Mobile
+0.10320284697508897,Năm học=2 & Tin tưởng=Thấp
+0.09015421115065243,Internet=Medium & Năm học=2
+0.0715697904310004,Cho phép=No & Năm học=2 & Trả phí=No
+0.06880189798339265,Cho phép=No & Công cụ=ChatGPT & Năm học=2
+0.06524317912218268,Công cụ=ChatGPT & Năm học=2 & Trả phí=No
+0.05970739422696718,Công cụ=ChatGPT & Năm học=2 & Trả phí=Yes
+0.0719652036378015,Công cụ=ChatGPT & Công cụ=Copilot & Năm học=2
+0.06405693950177936,Cho phép=No & Công cụ=Copilot & Năm học=2
+0.060498220640569395,Công cụ=Copilot & Năm học=2 & Trả phí=No
+0.053776196124950576,Cho phép=Yes & Công cụ=Copilot & Năm học=2
+0.057334914986160536,Công cụ=Copilot & Năm học=2 & Trả phí=Yes
+0.06484776591538158,Cho phép=No & Giờ dùng=Từ 3h & Năm học=2
+0.05931198102016608,Giờ dùng=Từ 3h & Năm học=2 & Trả phí=No
+0.05021747726374061,Cho phép=Yes & Giờ dùng=Từ 3h & Năm học=2
+0.057334914986160536,Giờ dùng=Từ 3h & Năm học=2 & Ảnh hưởng điểm=Dương
+0.05812574139976275,Giờ dùng=Từ 3h & Nhận biết=Cao & Năm học=2
+0.05575326215895611,Giờ dùng=Từ 3h & Năm học=2 & Trả phí=Yes
+0.06880189798339265,Cho phép=No & Năm học=2 & Tin tưởng=Cao
+0.05693950177935943,Công cụ=ChatGPT & Năm học=2 & Tin tưởng=Cao
+0.05575326215895611,Năm học=2 & Tin tưởng=Cao & Trả phí=No
+0.051403716884143934,Công cụ=Copilot & Năm học=2 & Tin tưởng=Cao
+0.056544088572558326,Nhận biết=Cao & Năm học=2 & Tin tưởng=Cao
+0.05812574139976275,Năm học=2 & Tin tưởng=Cao & Trả phí=Yes
+0.06207987346777382,Cho phép=No & Năm học=2 & Thiết bị=Laptop
+0.05852115460656386,Giờ dùng=Từ 3h & Năm học=2 & Thiết bị=Laptop
+0.05812574139976275,Năm học=2 & Thiết bị=Laptop & Trả phí=No
+0.05258995650454725,Công cụ=ChatGPT & Năm học=2 & Thiết bị=Laptop
+0.051008303677342826,Công cụ=Copilot & Năm học=2 & Thiết bị=Laptop
+0.05338078291814947,Năm học=2 & Thiết bị=Laptop & Trả phí=Yes
+0.05575326215895611,Nhận biết=Cao & Năm học=2 & Thiết bị=Laptop
+0.05258995650454725,Năm học=2 & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.0608936338473705,Cho phép=No & Năm học=2 & Ảnh hưởng điểm=Âm
+0.05931198102016608,Công cụ=ChatGPT & Năm học=2 & Ảnh hưởng điểm=Âm
+0.05338078291814947,Năm học=2 & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.05298536971134836,Năm học=2 & Trả phí=No & Ảnh hưởng điểm=Âm
+0.057334914986160536,Năm học=2 & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.05061289047054172,Nhận biết=Cao & Năm học=2 & Ảnh hưởng điểm=Âm
+0.0715697904310004,Cho phép=No & Năm học=2 & Trả phí=Yes
+0.054962435745353894,Giờ dùng=1 đến dưới 3h & Năm học=2 & Trả phí=Yes
+0.05298536971134836,Cho phép=No & Giờ dùng=1 đến dưới 3h & Năm học=2
+0.05614867536575722,Giờ dùng=1 đến dưới 3h & Năm học=2 & Trả phí=No
+0.05812574139976275,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Năm học=2
+0.055357848952155,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Năm học=2
+0.07829181494661921,Cho phép=No & Nhận biết=Cao & Năm học=2
+0.06207987346777382,Nhận biết=Cao & Năm học=2 & Trả phí=No
+0.06405693950177936,Công cụ=ChatGPT & Nhận biết=Cao & Năm học=2
+0.060102807433768286,Nhận biết=Cao & Năm học=2 & Trả phí=Yes
+0.06207987346777382,Năm học=2 & Trả phí=No & Ảnh hưởng điểm=Dương
+0.0608936338473705,Cho phép=No & Năm học=2 & Ảnh hưởng điểm=Dương
+0.056544088572558326,Nhận biết=Cao & Năm học=2 & Ảnh hưởng điểm=Dương
+0.054567022538552785,Cho phép=Yes & Năm học=2 & Ảnh hưởng điểm=Dương
+0.05338078291814947,Năm học=2 & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.06207987346777382,Cho phép=Yes & Năm học=2 & Trả phí=No
+0.05614867536575722,Cho phép=Yes & Công cụ=ChatGPT & Năm học=2
+0.057334914986160536,Cho phép=Yes & Năm học=2 & Trả phí=Yes
+0.05575326215895611,Năm học=2 & Tin tưởng=Thấp & Trả phí=No
+0.055357848952155,Cho phép=No & Năm học=2 & Tin tưởng=Thấp
+0.051799130090945035,Năm học=2 & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.051008303677342826,Nhận biết=Cao & Năm học=2 & Tin tưởng=Thấp
+0.05298536971134836,Năm học=2 & Thiết bị=Laptop & Tin tưởng=Thấp
+0.05258995650454725,Giờ dùng=Từ 3h & Năm học=2 & Tin tưởng=Thấp
+0.051008303677342826,Cho phép=No & Internet=Medium & Năm học=2
+0.12890470541716093,Cho phép=No & Ưa thích=Copilot
+0.11427441676551997,Trả phí=No & Ưa thích=Copilot
+0.11387900355871886,Tin tưởng=Cao & Ưa thích=Copilot
+0.10597073942269672,Ưa thích=Copilot & Ảnh hưởng điểm=Âm
+0.1055753262158956,Công cụ=ChatGPT & Ưa thích=Copilot
+0.10003954132068012,Thiết bị=Laptop & Ưa thích=Copilot
+0.0992487149070779,Giờ dùng=Từ 3h & Ưa thích=Copilot
+0.0937129300118624,Công cụ=Copilot & Ưa thích=Copilot
+0.07829181494661921,Nhận biết=Trung bình & Ưa thích=Copilot
+0.06801107156979043,Internet=High & Ưa thích=Copilot
+0.06287069988137604,Năm học=2 & Ưa thích=Copilot
+0.09766706207987347,Ưa thích=Copilot & Ảnh hưởng điểm=Dương
+0.08580466587584025,Tin tưởng=Thấp & Ưa thích=Copilot
+0.0830367734282325,Công cụ=Gemini & Ưa thích=Copilot
+0.0715697904310004,Thiết bị=Mobile & Ưa thích=Copilot
+0.0656385923289838,Năm học=4 & Ưa thích=Copilot
+0.11783313562672994,Trả phí=Yes & Ưa thích=Copilot
+0.09489916963226572,Giờ dùng=1 đến dưới 3h & Ưa thích=Copilot
+0.08224594701463028,Internet=Poor & Ưa thích=Copilot
+0.06959272439699486,Nhận biết=Thấp & Ưa thích=Copilot
+0.05061289047054172,Năm học=3 & Ưa thích=Copilot
+0.10320284697508897,Cho phép=Yes & Ưa thích=Copilot
+0.060498220640569395,Thiết bị=Tablet & Ưa thích=Copilot
+0.08422301304863583,Nhận biết=Cao & Ưa thích=Copilot
+0.08185053380782918,Internet=Medium & Ưa thích=Copilot
+0.05298536971134836,Năm học=1 & Ưa thích=Copilot
+0.06405693950177936,Cho phép=No & Trả phí=No & Ưa thích=Copilot
+0.0656385923289838,Cho phép=No & Tin tưởng=Cao & Ưa thích=Copilot
+0.05970739422696718,Tin tưởng=Cao & Trả phí=No & Ưa thích=Copilot
+0.05417160933175168,Tin tưởng=Cao & Trả phí=Yes & Ưa thích=Copilot
+0.06326611308817714,Cho phép=No & Ưa thích=Copilot & Ảnh hưởng điểm=Âm
+0.05614867536575722,Tin tưởng=Cao & Ưa thích=Copilot & Ảnh hưởng điểm=Âm
+0.056544088572558326,Trả phí=Yes & Ưa thích=Copilot & Ảnh hưởng điểm=Âm
+0.05931198102016608,Công cụ=ChatGPT & Tin tưởng=Cao & Ưa thích=Copilot
+0.05931198102016608,Cho phép=No & Công cụ=ChatGPT & Ưa thích=Copilot
+0.05258995650454725,Công cụ=ChatGPT & Trả phí=No & Ưa thích=Copilot
+0.05298536971134836,Công cụ=ChatGPT & Trả phí=Yes & Ưa thích=Copilot
+0.057334914986160536,Cho phép=No & Thiết bị=Laptop & Ưa thích=Copilot
+0.05417160933175168,Thiết bị=Laptop & Tin tưởng=Cao & Ưa thích=Copilot
+0.05219454329774614,Thiết bị=Laptop & Trả phí=No & Ưa thích=Copilot
+0.051008303677342826,Công cụ=ChatGPT & Thiết bị=Laptop & Ưa thích=Copilot
+0.05298536971134836,Cho phép=No & Giờ dùng=Từ 3h & Ưa thích=Copilot
+0.05061289047054172,Giờ dùng=Từ 3h & Tin tưởng=Cao & Ưa thích=Copilot
+0.051799130090945035,Giờ dùng=Từ 3h & Trả phí=Yes & Ưa thích=Copilot
+0.054962435745353894,Công cụ=ChatGPT & Công cụ=Copilot & Ưa thích=Copilot
+0.051008303677342826,Cho phép=No & Công cụ=Copilot & Ưa thích=Copilot
+0.051403716884143934,Trả phí=No & Ưa thích=Copilot & Ảnh hưởng điểm=Dương
+0.06484776591538158,Cho phép=No & Trả phí=Yes & Ưa thích=Copilot
+0.05338078291814947,Cho phép=No & Giờ dùng=1 đến dưới 3h & Ưa thích=Copilot
+0.05021747726374061,Cho phép=Yes & Trả phí=No & Ưa thích=Copilot
+0.05298536971134836,Cho phép=Yes & Trả phí=Yes & Ưa thích=Copilot
+0.09252669039145907,Cho phép=No & Mục đích=Content Writing
+0.0826413602214314,Mục đích=Content Writing & Tin tưởng=Cao
+0.08105970739422697,Mục đích=Content Writing & Trả phí=No
+0.077500988533017,Công cụ=Copilot & Mục đích=Content Writing
+0.07354685646500593,Mục đích=Content Writing & Nhận biết=Trung bình
+0.0719652036378015,Giờ dùng=Từ 3h & Mục đích=Content Writing
+0.06722024515618821,Mục đích=Content Writing & Ảnh hưởng điểm=Âm
+0.06484776591538158,Công cụ=ChatGPT & Mục đích=Content Writing
+0.06366152629497825,Mục đích=Content Writing & Thiết bị=Laptop
+0.055357848952155,Internet=High & Mục đích=Content Writing
+0.08975879794385132,Mục đích=Content Writing & Trả phí=Yes
+0.07829181494661921,Giờ dùng=1 đến dưới 3h & Mục đích=Content Writing
+0.06484776591538158,Công cụ=Gemini & Mục đích=Content Writing
+0.07829181494661921,Cho phép=Yes & Mục đích=Content Writing
+0.060102807433768286,Internet=Medium & Mục đích=Content Writing
+0.057730328192961644,Mục đích=Content Writing & Thiết bị=Tablet
+0.05417160933175168,Mục đích=Content Writing & Năm học=4
+0.055357848952155,Internet=Poor & Mục đích=Content Writing
+0.06128904705417161,Mục đích=Content Writing & Tin tưởng=Thấp
+0.053776196124950576,Mục đích=Content Writing & Nhận biết=Cao
+0.07077896401739818,Mục đích=Content Writing & Ảnh hưởng điểm=Dương
+0.2542506919731119,Cho phép=No & Trả phí=Yes
+0.22261763542902333,Giờ dùng=1 đến dưới 3h & Trả phí=Yes
+0.2222222222222222,Cho phép=No & Giờ dùng=1 đến dưới 3h
+0.2277580071174377,Giờ dùng=1 đến dưới 3h & Trả phí=No
+0.22815342032423883,Cho phép=Yes & Giờ dùng=1 đến dưới 3h
+0.11150652431791222,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Trả phí=Yes
+0.1111111111111111,Cho phép=No & Giờ dùng=1 đến dưới 3h & Trả phí=Yes
+0.1111111111111111,Cho phép=No & Giờ dùng=1 đến dưới 3h & Trả phí=No
+0.1166468960063266,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Trả phí=No
+0.14630288651640966,Nhận biết=Thấp & Trả phí=Yes
+0.14511664689600634,Cho phép=No & Nhận biết=Thấp
+0.1368129695531831,Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp
+0.1221826809015421,Nhận biết=Thấp & Thiết bị=Laptop
+0.11506524317912219,Nhận biết=Thấp & Ảnh hưởng điểm=Âm
+0.10794780545670225,Công cụ=Gemini & Nhận biết=Thấp
+0.08540925266903915,Internet=High & Nhận biết=Thấp
+0.1269276393831554,Công cụ=Copilot & Nhận biết=Thấp
+0.1162514827995255,Công cụ=ChatGPT & Nhận biết=Thấp
+0.09529458283906682,Internet=Poor & Nhận biết=Thấp
+0.14076710162119416,Nhận biết=Thấp & Trả phí=No
+0.11190193752471332,Nhận biết=Thấp & Tin tưởng=Thấp
+0.10636615262949782,Internet=Medium & Nhận biết=Thấp
+0.09687623566627125,Nhận biết=Thấp & Thiết bị=Tablet
+0.14195334124159747,Cho phép=Yes & Nhận biết=Thấp
+0.13444049031237643,Nhận biết=Thấp & Ảnh hưởng điểm=Dương
+0.1047844998022934,Nhận biết=Thấp & Tin tưởng=Cao
+0.06801107156979043,Nhận biết=Thấp & Thiết bị=Mobile
+0.1111111111111111,Giờ dùng=Từ 3h & Nhận biết=Thấp
+0.0719652036378015,Cho phép=No & Nhận biết=Thấp & Trả phí=Yes
+0.06919731119019375,Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp & Trả phí=Yes
+0.06247528667457493,Cho phép=No & Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp
+0.07433768287860815,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp
+0.06761565836298933,Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp & Trả phí=No
+0.06405693950177936,Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp & Thiết bị=Laptop
+0.06247528667457493,Nhận biết=Thấp & Thiết bị=Laptop & Trả phí=Yes
+0.06168446026097272,Cho phép=No & Nhận biết=Thấp & Thiết bị=Laptop
+0.06484776591538158,Công cụ=Copilot & Nhận biết=Thấp & Thiết bị=Laptop
+0.06366152629497825,Nhận biết=Thấp & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.060498220640569395,Cho phép=Yes & Nhận biết=Thấp & Thiết bị=Laptop
+0.05970739422696718,Nhận biết=Thấp & Thiết bị=Laptop & Trả phí=No
+0.06840648477659154,Cho phép=No & Nhận biết=Thấp & Ảnh hưởng điểm=Âm
+0.056544088572558326,Nhận biết=Thấp & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.051799130090945035,Công cụ=Copilot & Nhận biết=Thấp & Ảnh hưởng điểm=Âm
+0.05852115460656386,Nhận biết=Thấp & Trả phí=No & Ảnh hưởng điểm=Âm
+0.055357848952155,Công cụ=Gemini & Nhận biết=Thấp & Trả phí=Yes
+0.054962435745353894,Cho phép=No & Công cụ=Gemini & Nhận biết=Thấp
+0.051008303677342826,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp
+0.05258995650454725,Công cụ=Gemini & Nhận biết=Thấp & Trả phí=No
+0.05298536971134836,Cho phép=Yes & Công cụ=Gemini & Nhận biết=Thấp
+0.05338078291814947,Công cụ=Gemini & Nhận biết=Thấp & Ảnh hưởng điểm=Dương
+0.06405693950177936,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp
+0.06366152629497825,Công cụ=Copilot & Nhận biết=Thấp & Trả phí=Yes
+0.06247528667457493,Cho phép=No & Công cụ=Copilot & Nhận biết=Thấp
+0.06445235270858046,Cho phép=Yes & Công cụ=Copilot & Nhận biết=Thấp
+0.06326611308817714,Công cụ=Copilot & Nhận biết=Thấp & Trả phí=No
+0.05298536971134836,Công cụ=Copilot & Nhận biết=Thấp & Ảnh hưởng điểm=Dương
+0.07394226967180703,Công cụ=ChatGPT & Công cụ=Copilot & Nhận biết=Thấp
+0.05812574139976275,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp
+0.05614867536575722,Công cụ=ChatGPT & Nhận biết=Thấp & Trả phí=Yes
+0.060102807433768286,Công cụ=ChatGPT & Nhận biết=Thấp & Trả phí=No
+0.06959272439699486,Cho phép=Yes & Công cụ=ChatGPT & Nhận biết=Thấp
+0.06128904705417161,Công cụ=ChatGPT & Nhận biết=Thấp & Ảnh hưởng điểm=Dương
+0.07315144325820483,Cho phép=No & Nhận biết=Thấp & Trả phí=No
+0.06761565836298933,Cho phép=Yes & Nhận biết=Thấp & Trả phí=No
+0.054962435745353894,Nhận biết=Thấp & Tin tưởng=Thấp & Trả phí=No
+0.06524317912218268,Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp & Tin tưởng=Thấp
+0.054962435745353894,Công cụ=ChatGPT & Nhận biết=Thấp & Tin tưởng=Thấp
+0.051403716884143934,Công cụ=Copilot & Nhận biết=Thấp & Tin tưởng=Thấp
+0.06207987346777382,Cho phép=Yes & Nhận biết=Thấp & Tin tưởng=Thấp
+0.05693950177935943,Nhận biết=Thấp & Tin tưởng=Thấp & Trả phí=Yes
+0.06287069988137604,Nhận biết=Thấp & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.051403716884143934,Cho phép=No & Internet=Medium & Nhận biết=Thấp
+0.05061289047054172,Internet=Medium & Nhận biết=Thấp & Trả phí=No
+0.05575326215895611,Internet=Medium & Nhận biết=Thấp & Trả phí=Yes
+0.054962435745353894,Cho phép=Yes & Internet=Medium & Nhận biết=Thấp
+0.051799130090945035,Internet=Medium & Nhận biết=Thấp & Ảnh hưởng điểm=Dương
+0.07433768287860815,Cho phép=Yes & Nhận biết=Thấp & Trả phí=Yes
+0.08185053380782918,Cho phép=Yes & Nhận biết=Thấp & Ảnh hưởng điểm=Dương
+0.0711743772241993,Giờ dùng=1 đến dưới 3h & Nhận biết=Thấp & Ảnh hưởng điểm=Dương
+0.06405693950177936,Nhận biết=Thấp & Trả phí=No & Ảnh hưởng điểm=Dương
+0.07038355081059708,Nhận biết=Thấp & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.05258995650454725,Cho phép=No & Nhận biết=Thấp & Ảnh hưởng điểm=Dương
+0.051403716884143934,Nhận biết=Thấp & Tin tưởng=Cao & Trả phí=No
+0.05338078291814947,Nhận biết=Thấp & Tin tưởng=Cao & Trả phí=Yes
+0.05931198102016608,Cho phép=No & Nhận biết=Thấp & Tin tưởng=Cao
+0.06128904705417161,Giờ dùng=Từ 3h & Nhận biết=Thấp & Trả phí=Yes
+0.05575326215895611,Cho phép=Yes & Giờ dùng=Từ 3h & Nhận biết=Thấp
+0.05219454329774614,Giờ dùng=Từ 3h & Nhận biết=Thấp & Ảnh hưởng điểm=Dương
+0.055357848952155,Cho phép=No & Giờ dùng=Từ 3h & Nhận biết=Thấp
+0.1158560695927244,Cho phép=No & Ưa thích=Gemini
+0.11546065638592329,Trả phí=Yes & Ưa thích=Gemini
+0.10755239224990115,Công cụ=Gemini & Ưa thích=Gemini
+0.10715697904310004,Giờ dùng=1 đến dưới 3h & Ưa thích=Gemini
+0.0941083432186635,Thiết bị=Laptop & Ưa thích=Gemini
+0.09252669039145907,Ưa thích=Gemini & Ảnh hưởng điểm=Âm
+0.07631474891261368,Internet=High & Ưa thích=Gemini
+0.06484776591538158,Năm học=2 & Ưa thích=Gemini
+0.06366152629497825,Nhận biết=Thấp & Ưa thích=Gemini
+0.12060102807433769,Trả phí=No & Ưa thích=Gemini
+0.10992487149070779,Công cụ=Copilot & Ưa thích=Gemini
+0.10438908659549229,Công cụ=ChatGPT & Ưa thích=Gemini
+0.08145512060102808,Internet=Poor & Ưa thích=Gemini
+0.07868722815342033,Thiết bị=Tablet & Ưa thích=Gemini
+0.06247528667457493,Năm học=1 & Ưa thích=Gemini
+0.12020561486753657,Cho phép=Yes & Ưa thích=Gemini
+0.10043495452748122,Giờ dùng=Từ 3h & Ưa thích=Gemini
+0.07829181494661921,Internet=Medium & Ưa thích=Gemini
+0.06445235270858046,Năm học=3 & Ưa thích=Gemini
+0.06326611308817714,Thiết bị=Mobile & Ưa thích=Gemini
+0.09648082245947015,Nhận biết=Trung bình & Ưa thích=Gemini
+0.08778173190984578,Tin tưởng=Thấp & Ưa thích=Gemini
+0.11308817714511665,Ưa thích=Gemini & Ảnh hưởng điểm=Dương
+0.09094503756425465,Tin tưởng=Cao & Ưa thích=Gemini
+0.07591933570581258,Nhận biết=Cao & Ưa thích=Gemini
+0.05693950177935943,Cho phép=No & Trả phí=No & Ưa thích=Gemini
+0.05891656781336497,Cho phép=No & Trả phí=Yes & Ưa thích=Gemini
+0.056544088572558326,Cho phép=Yes & Trả phí=Yes & Ưa thích=Gemini
+0.057730328192961644,Cho phép=No & Công cụ=Gemini & Ưa thích=Gemini
+0.05219454329774614,Công cụ=Gemini & Trả phí=Yes & Ưa thích=Gemini
+0.05614867536575722,Công cụ=Gemini & Ưa thích=Gemini & Ảnh hưởng điểm=Dương
+0.055357848952155,Công cụ=Gemini & Trả phí=No & Ưa thích=Gemini
+0.05298536971134836,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Ưa thích=Gemini
+0.05219454329774614,Cho phép=No & Giờ dùng=1 đến dưới 3h & Ưa thích=Gemini
+0.05021747726374061,Giờ dùng=1 đến dưới 3h & Trả phí=Yes & Ưa thích=Gemini
+0.05693950177935943,Giờ dùng=1 đến dưới 3h & Trả phí=No & Ưa thích=Gemini
+0.054962435745353894,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Ưa thích=Gemini
+0.05258995650454725,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Ưa thích=Gemini
+0.05219454329774614,Công cụ=Copilot & Thiết bị=Laptop & Ưa thích=Gemini
+0.05338078291814947,Cho phép=Yes & Thiết bị=Laptop & Ưa thích=Gemini
+0.057730328192961644,Cho phép=No & Ưa thích=Gemini & Ảnh hưởng điểm=Âm
+0.053776196124950576,Công cụ=Copilot & Trả phí=No & Ưa thích=Gemini
+0.05258995650454725,Cho phép=No & Công cụ=Copilot & Ưa thích=Gemini
+0.051403716884143934,Công cụ=Copilot & Ưa thích=Gemini & Ảnh hưởng điểm=Dương
+0.057334914986160536,Cho phép=Yes & Công cụ=Copilot & Ưa thích=Gemini
+0.05614867536575722,Công cụ=Copilot & Trả phí=Yes & Ưa thích=Gemini
+0.07275603005140371,Công cụ=ChatGPT & Công cụ=Copilot & Ưa thích=Gemini
+0.05417160933175168,Công cụ=ChatGPT & Trả phí=No & Ưa thích=Gemini
+0.0608936338473705,Cho phép=Yes & Công cụ=ChatGPT & Ưa thích=Gemini
+0.05021747726374061,Công cụ=ChatGPT & Trả phí=Yes & Ưa thích=Gemini
+0.06366152629497825,Cho phép=Yes & Trả phí=No & Ưa thích=Gemini
+0.05417160933175168,Cho phép=Yes & Giờ dùng=Từ 3h & Ưa thích=Gemini
+0.05258995650454725,Giờ dùng=Từ 3h & Trả phí=Yes & Ưa thích=Gemini
+0.056544088572558326,Giờ dùng=Từ 3h & Ưa thích=Gemini & Ảnh hưởng điểm=Dương
+0.051008303677342826,Nhận biết=Trung bình & Trả phí=No & Ưa thích=Gemini
+0.055357848952155,Cho phép=Yes & Nhận biết=Trung bình & Ưa thích=Gemini
+0.054962435745353894,Trả phí=No & Ưa thích=Gemini & Ảnh hưởng điểm=Dương
+0.06761565836298933,Cho phép=Yes & Ưa thích=Gemini & Ảnh hưởng điểm=Dương
+0.05812574139976275,Trả phí=Yes & Ưa thích=Gemini & Ảnh hưởng điểm=Dương
+0.0937129300118624,Tin tưởng=Trung bình & Trả phí=Yes
+0.09213127718465797,Cho phép=No & Tin tưởng=Trung bình
+0.08659549228944247,Giờ dùng=1 đến dưới 3h & Tin tưởng=Trung bình
+0.08026888098062475,Tin tưởng=Trung bình & Ảnh hưởng điểm=Âm
+0.07236061684460261,Thiết bị=Laptop & Tin tưởng=Trung bình
+0.07236061684460261,Công cụ=Gemini & Tin tưởng=Trung bình
+0.07038355081059708,Nhận biết=Thấp & Tin tưởng=Trung bình
+0.05812574139976275,Internet=High & Tin tưởng=Trung bình
+0.057334914986160536,Tin tưởng=Trung bình & Ưa thích=Gemini
+0.07987346777382365,Công cụ=ChatGPT & Tin tưởng=Trung bình
+0.07552392249901146,Công cụ=Copilot & Tin tưởng=Trung bình
+0.06682483194938711,Internet=Poor & Tin tưởng=Trung bình
+0.05219454329774614,Năm học=3 & Tin tưởng=Trung bình
+0.0992487149070779,Cho phép=Yes & Tin tưởng=Trung bình
+0.09766706207987347,Tin tưởng=Trung bình & Trả phí=No
+0.08659549228944247,Tin tưởng=Trung bình & Ảnh hưởng điểm=Dương
+0.05219454329774614,Nhận biết=Cao & Tin tưởng=Trung bình
+0.07038355081059708,Thiết bị=Tablet & Tin tưởng=Trung bình
+0.0771055753262159,Giờ dùng=Từ 3h & Tin tưởng=Trung bình
+0.06880189798339265,Nhận biết=Trung bình & Tin tưởng=Trung bình
+0.066429418742586,Internet=Medium & Tin tưởng=Trung bình
+0.051403716884143934,Cho phép=Yes & Tin tưởng=Trung bình & Trả phí=No
+0.051799130090945035,Cho phép=Yes & Tin tưởng=Trung bình & Ảnh hưởng điểm=Dương
+0.055357848952155,Ngành=Commerce & Trả phí=Yes
+0.05417160933175168,Cho phép=Yes & Ngành=Commerce
+0.22182680901542112,Trả phí=No & Ảnh hưởng điểm=Dương
+0.20877817319098457,Cho phép=No & Ảnh hưởng điểm=Dương
+0.1933570581257414,Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Dương
+0.23408461842625544,Cho phép=Yes & Ảnh hưởng điểm=Dương
+0.2210359826018189,Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.12020561486753657,Cho phép=Yes & Trả phí=No & Ảnh hưởng điểm=Dương
+0.10162119414788454,Cho phép=No & Trả phí=No & Ảnh hưởng điểm=Dương
+0.10715697904310004,Cho phép=No & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.099644128113879,Giờ dùng=1 đến dưới 3h & Trả phí=No & Ảnh hưởng điểm=Dương
+0.08422301304863583,Cho phép=No & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Dương
+0.10913404507710557,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Dương
+0.0937129300118624,Giờ dùng=1 đến dưới 3h & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.11387900355871886,Cho phép=Yes & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.20640569395017794,Cho phép=No & Tin tưởng=Thấp
+0.20324238829576907,Tin tưởng=Thấp & Trả phí=No
+0.18623962040332148,Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.1708185053380783,Công cụ=ChatGPT & Tin tưởng=Thấp
+0.17002767892447607,Giờ dùng=Từ 3h & Tin tưởng=Thấp
+0.16370106761565836,Công cụ=Copilot & Tin tưởng=Thấp
+0.16370106761565836,Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.19612495057334914,Tin tưởng=Thấp & Trả phí=Yes
+0.18307631474891262,Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp
+0.1929616449189403,Cho phép=Yes & Tin tưởng=Thấp
+0.10597073942269672,Cho phép=No & Tin tưởng=Thấp & Trả phí=No
+0.0937129300118624,Tin tưởng=Thấp & Trả phí=No & Ảnh hưởng điểm=Dương
+0.09331751680506128,Cho phép=No & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.09252669039145907,Tin tưởng=Thấp & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.09292210359826018,Cho phép=Yes & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.08738631870304468,Công cụ=ChatGPT & Tin tưởng=Thấp & Trả phí=No
+0.08185053380782918,Công cụ=ChatGPT & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.07789640173981811,Cho phép=No & Công cụ=ChatGPT & Tin tưởng=Thấp
+0.08461842625543693,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp
+0.08343218663503361,Công cụ=ChatGPT & Tin tưởng=Thấp & Trả phí=Yes
+0.09292210359826018,Cho phép=Yes & Công cụ=ChatGPT & Tin tưởng=Thấp
+0.09054962435745353,Cho phép=No & Giờ dùng=Từ 3h & Tin tưởng=Thấp
+0.08659549228944247,Giờ dùng=Từ 3h & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.08382759984183472,Giờ dùng=Từ 3h & Tin tưởng=Thấp & Trả phí=No
+0.06801107156979043,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Tin tưởng=Thấp
+0.08620007908264136,Giờ dùng=Từ 3h & Tin tưởng=Thấp & Trả phí=Yes
+0.07947805456702253,Cho phép=Yes & Giờ dùng=Từ 3h & Tin tưởng=Thấp
+0.10201660735468565,Công cụ=ChatGPT & Công cụ=Copilot & Tin tưởng=Thấp
+0.07908264136022143,Công cụ=Copilot & Tin tưởng=Thấp & Trả phí=No
+0.07473309608540925,Cho phép=No & Công cụ=Copilot & Tin tưởng=Thấp
+0.06484776591538158,Công cụ=Copilot & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.06405693950177936,Công cụ=Copilot & Giờ dùng=Từ 3h & Tin tưởng=Thấp
+0.07868722815342033,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp
+0.07275603005140371,Công cụ=Copilot & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.08896797153024912,Cho phép=Yes & Công cụ=Copilot & Tin tưởng=Thấp
+0.08461842625543693,Công cụ=Copilot & Tin tưởng=Thấp & Trả phí=Yes
+0.08896797153024912,Cho phép=No & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.08382759984183472,Tin tưởng=Thấp & Trả phí=No & Ảnh hưởng điểm=Âm
+0.07236061684460261,Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.06445235270858046,Công cụ=ChatGPT & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.07987346777382365,Tin tưởng=Thấp & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.07473309608540925,Cho phép=Yes & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.0660340055357849,Giờ dùng=Từ 3h & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.10043495452748122,Cho phép=No & Tin tưởng=Thấp & Trả phí=Yes
+0.09489916963226572,Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp & Trả phí=No
+0.08778173190984578,Cho phép=No & Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp
+0.08540925266903915,Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.0881771451166469,Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp & Trả phí=Yes
+0.09529458283906682,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Tin tưởng=Thấp
+0.09568999604586793,Cho phép=Yes & Tin tưởng=Thấp & Trả phí=Yes
+0.09727164887307237,Cho phép=Yes & Tin tưởng=Thấp & Trả phí=No
+0.1546065638592329,Cho phép=No & Thiết bị=Mobile
+0.14827995255041518,Thiết bị=Mobile & Trả phí=No
+0.13088177145116647,Công cụ=ChatGPT & Thiết bị=Mobile
+0.12850929221035984,Công cụ=Copilot & Thiết bị=Mobile
+0.12850929221035984,Thiết bị=Mobile & Ảnh hưởng điểm=Dương
+0.1265322261763543,Giờ dùng=Từ 3h & Thiết bị=Mobile
+0.11783313562672994,Công cụ=Gemini & Thiết bị=Mobile
+0.11783313562672994,Thiết bị=Mobile & Tin tưởng=Thấp
+0.11506524317912219,Nhận biết=Trung bình & Thiết bị=Mobile
+0.08975879794385132,Internet=High & Thiết bị=Mobile
+0.14669829972321075,Thiết bị=Mobile & Trả phí=Yes
+0.11190193752471332,Nhận biết=Cao & Thiết bị=Mobile
+0.09727164887307237,Internet=Medium & Thiết bị=Mobile
+0.14037168841439304,Cho phép=Yes & Thiết bị=Mobile
+0.13009094503756424,Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile
+0.12850929221035984,Thiết bị=Mobile & Tin tưởng=Cao
+0.12415974693554764,Thiết bị=Mobile & Ảnh hưởng điểm=Âm
+0.10794780545670225,Internet=Poor & Thiết bị=Mobile
+0.07908264136022143,Cho phép=No & Thiết bị=Mobile & Trả phí=No
+0.06959272439699486,Công cụ=ChatGPT & Thiết bị=Mobile & Trả phí=No
+0.06959272439699486,Cho phép=No & Công cụ=ChatGPT & Thiết bị=Mobile
+0.06128904705417161,Cho phép=Yes & Công cụ=ChatGPT & Thiết bị=Mobile
+0.06128904705417161,Công cụ=ChatGPT & Thiết bị=Mobile & Trả phí=Yes
+0.0830367734282325,Công cụ=ChatGPT & Công cụ=Copilot & Thiết bị=Mobile
+0.06880189798339265,Công cụ=Copilot & Thiết bị=Mobile & Trả phí=No
+0.06722024515618821,Cho phép=No & Công cụ=Copilot & Thiết bị=Mobile
+0.06247528667457493,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile
+0.06128904705417161,Cho phép=Yes & Công cụ=Copilot & Thiết bị=Mobile
+0.060498220640569395,Công cụ=Copilot & Thiết bị=Mobile & Tin tưởng=Cao
+0.05970739422696718,Công cụ=Copilot & Thiết bị=Mobile & Trả phí=Yes
+0.06445235270858046,Thiết bị=Mobile & Trả phí=No & Ảnh hưởng điểm=Dương
+0.06128904705417161,Cho phép=No & Thiết bị=Mobile & Ảnh hưởng điểm=Dương
+0.06405693950177936,Thiết bị=Mobile & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.06722024515618821,Cho phép=Yes & Thiết bị=Mobile & Ảnh hưởng điểm=Dương
+0.05693950177935943,Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile & Ảnh hưởng điểm=Dương
+0.05338078291814947,Thiết bị=Mobile & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.06128904705417161,Giờ dùng=Từ 3h & Thiết bị=Mobile & Trả phí=No
+0.05931198102016608,Giờ dùng=Từ 3h & Thiết bị=Mobile & Ảnh hưởng điểm=Dương
+0.05891656781336497,Cho phép=No & Giờ dùng=Từ 3h & Thiết bị=Mobile
+0.06761565836298933,Cho phép=Yes & Giờ dùng=Từ 3h & Thiết bị=Mobile
+0.06524317912218268,Giờ dùng=Từ 3h & Thiết bị=Mobile & Trả phí=Yes
+0.053776196124950576,Giờ dùng=Từ 3h & Thiết bị=Mobile & Tin tưởng=Cao
+0.06722024515618821,Cho phép=No & Công cụ=Gemini & Thiết bị=Mobile
+0.05614867536575722,Công cụ=Gemini & Thiết bị=Mobile & Ảnh hưởng điểm=Dương
+0.05614867536575722,Công cụ=Gemini & Thiết bị=Mobile & Trả phí=No
+0.06168446026097272,Công cụ=Gemini & Thiết bị=Mobile & Trả phí=Yes
+0.05061289047054172,Cho phép=Yes & Công cụ=Gemini & Thiết bị=Mobile
+0.053776196124950576,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile
+0.051403716884143934,Công cụ=Gemini & Thiết bị=Mobile & Tin tưởng=Cao
+0.06326611308817714,Cho phép=No & Thiết bị=Mobile & Tin tưởng=Thấp
+0.05812574139976275,Thiết bị=Mobile & Tin tưởng=Thấp & Trả phí=No
+0.054567022538552785,Giờ dùng=Từ 3h & Thiết bị=Mobile & Tin tưởng=Thấp
+0.053776196124950576,Công cụ=ChatGPT & Thiết bị=Mobile & Tin tưởng=Thấp
+0.05219454329774614,Thiết bị=Mobile & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.05970739422696718,Thiết bị=Mobile & Tin tưởng=Thấp & Trả phí=Yes
+0.054567022538552785,Cho phép=Yes & Thiết bị=Mobile & Tin tưởng=Thấp
+0.0608936338473705,Nhận biết=Trung bình & Thiết bị=Mobile & Trả phí=No
+0.054962435745353894,Cho phép=No & Nhận biết=Trung bình & Thiết bị=Mobile
+0.051403716884143934,Giờ dùng=Từ 3h & Nhận biết=Trung bình & Thiết bị=Mobile
+0.051008303677342826,Công cụ=Copilot & Nhận biết=Trung bình & Thiết bị=Mobile
+0.060102807433768286,Cho phép=Yes & Nhận biết=Trung bình & Thiết bị=Mobile
+0.05061289047054172,Nhận biết=Trung bình & Thiết bị=Mobile & Tin tưởng=Cao
+0.05417160933175168,Nhận biết=Trung bình & Thiết bị=Mobile & Trả phí=Yes
+0.05258995650454725,Nhận biết=Trung bình & Thiết bị=Mobile & Ảnh hưởng điểm=Âm
+0.05061289047054172,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Thiết bị=Mobile
+0.07552392249901146,Cho phép=No & Thiết bị=Mobile & Trả phí=Yes
+0.06524317912218268,Cho phép=No & Nhận biết=Cao & Thiết bị=Mobile
+0.05812574139976275,Nhận biết=Cao & Thiết bị=Mobile & Trả phí=Yes
+0.055357848952155,Nhận biết=Cao & Thiết bị=Mobile & Ảnh hưởng điểm=Dương
+0.053776196124950576,Nhận biết=Cao & Thiết bị=Mobile & Trả phí=No
+0.051403716884143934,Giờ dùng=1 đến dưới 3h & Nhận biết=Cao & Thiết bị=Mobile
+0.05298536971134836,Công cụ=ChatGPT & Nhận biết=Cao & Thiết bị=Mobile
+0.051403716884143934,Nhận biết=Cao & Thiết bị=Mobile & Tin tưởng=Cao
+0.05021747726374061,Internet=Medium & Thiết bị=Mobile & Trả phí=Yes
+0.06919731119019375,Cho phép=Yes & Thiết bị=Mobile & Trả phí=No
+0.0711743772241993,Cho phép=Yes & Thiết bị=Mobile & Trả phí=Yes
+0.06682483194938711,Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile & Trả phí=No
+0.05812574139976275,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile
+0.0719652036378015,Cho phép=No & Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile
+0.06366152629497825,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile
+0.06326611308817714,Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile & Trả phí=Yes
+0.0656385923289838,Thiết bị=Mobile & Tin tưởng=Cao & Trả phí=No
+0.06405693950177936,Cho phép=Yes & Thiết bị=Mobile & Tin tưởng=Cao
+0.057334914986160536,Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile & Tin tưởng=Cao
+0.06287069988137604,Thiết bị=Mobile & Tin tưởng=Cao & Trả phí=Yes
+0.060498220640569395,Công cụ=ChatGPT & Thiết bị=Mobile & Tin tưởng=Cao
+0.06445235270858046,Cho phép=No & Thiết bị=Mobile & Tin tưởng=Cao
+0.06722024515618821,Cho phép=No & Thiết bị=Mobile & Ảnh hưởng điểm=Âm
+0.05970739422696718,Thiết bị=Mobile & Trả phí=No & Ảnh hưởng điểm=Âm
+0.05852115460656386,Công cụ=Copilot & Thiết bị=Mobile & Ảnh hưởng điểm=Âm
+0.05852115460656386,Giờ dùng=1 đến dưới 3h & Thiết bị=Mobile & Ảnh hưởng điểm=Âm
+0.05693950177935943,Công cụ=ChatGPT & Thiết bị=Mobile & Ảnh hưởng điểm=Âm
+0.06445235270858046,Thiết bị=Mobile & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.05693950177935943,Thiết bị=Mobile & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.05693950177935943,Cho phép=Yes & Thiết bị=Mobile & Ảnh hưởng điểm=Âm
+0.05061289047054172,Giờ dùng=Từ 3h & Thiết bị=Mobile & Ảnh hưởng điểm=Âm
+0.06128904705417161,Cho phép=No & Internet=Poor & Thiết bị=Mobile
+0.056544088572558326,Internet=Poor & Thiết bị=Mobile & Trả phí=No
+0.05298536971134836,Công cụ=Copilot & Internet=Poor & Thiết bị=Mobile
+0.051799130090945035,Internet=Poor & Thiết bị=Mobile & Ảnh hưởng điểm=Âm
+0.051008303677342826,Giờ dùng=1 đến dưới 3h & Internet=Poor & Thiết bị=Mobile
+0.051403716884143934,Internet=Poor & Thiết bị=Mobile & Trả phí=Yes
+0.1162514827995255,Mục đích=Coding Help & Trả phí=No
+0.1103202846975089,Cho phép=No & Mục đích=Coding Help
+0.1051799130090945,Mục đích=Coding Help & Ảnh hưởng điểm=Dương
+0.09806247528667457,Mục đích=Coding Help & Tin tưởng=Thấp
+0.09529458283906682,Giờ dùng=Từ 3h & Mục đích=Coding Help
+0.09252669039145907,Công cụ=Gemini & Mục đích=Coding Help
+0.08026888098062475,Mục đích=Coding Help & Nhận biết=Trung bình
+0.0771055753262159,Công cụ=Copilot & Mục đích=Coding Help
+0.07433768287860815,Công cụ=ChatGPT & Mục đích=Coding Help
+0.0660340055357849,Mục đích=Coding Help & Thiết bị=Mobile
+0.06405693950177936,Internet=High & Mục đích=Coding Help
+0.053776196124950576,Mục đích=Coding Help & Ưa thích=Copilot
+0.10122578094108343,Mục đích=Coding Help & Trả phí=Yes
+0.07354685646500593,Internet=Medium & Mục đích=Coding Help
+0.0711743772241993,Mục đích=Coding Help & Nhận biết=Cao
+0.10715697904310004,Cho phép=Yes & Mục đích=Coding Help
+0.10003954132068012,Giờ dùng=1 đến dưới 3h & Mục đích=Coding Help
+0.07868722815342033,Mục đích=Coding Help & Tin tưởng=Cao
+0.0660340055357849,Mục đích=Coding Help & Nhận biết=Thấp
+0.06207987346777382,Mục đích=Coding Help & Ưa thích=ChatGPT
+0.05891656781336497,Mục đích=Coding Help & Năm học=3
+0.08343218663503361,Mục đích=Coding Help & Ảnh hưởng điểm=Âm
+0.07987346777382365,Internet=Poor & Mục đích=Coding Help
+0.06919731119019375,Mục đích=Coding Help & Thiết bị=Laptop
+0.08224594701463028,Mục đích=Coding Help & Thiết bị=Tablet
+0.05931198102016608,Mục đích=Coding Help & Năm học=2
+0.05061289047054172,Mục đích=Coding Help & Năm học=1
+0.057730328192961644,Cho phép=No & Mục đích=Coding Help & Trả phí=No
+0.054567022538552785,Mục đích=Coding Help & Trả phí=No & Ảnh hưởng điểm=Dương
+0.05298536971134836,Cho phép=No & Mục đích=Coding Help & Ảnh hưởng điểm=Dương
+0.05219454329774614,Cho phép=Yes & Mục đích=Coding Help & Ảnh hưởng điểm=Dương
+0.05614867536575722,Cho phép=No & Mục đích=Coding Help & Tin tưởng=Thấp
+0.05021747726374061,Mục đích=Coding Help & Tin tưởng=Thấp & Trả phí=No
+0.051799130090945035,Cho phép=No & Giờ dùng=Từ 3h & Mục đích=Coding Help
+0.051403716884143934,Giờ dùng=Từ 3h & Mục đích=Coding Help & Ảnh hưởng điểm=Dương
+0.05061289047054172,Công cụ=Gemini & Mục đích=Coding Help & Ảnh hưởng điểm=Dương
+0.05021747726374061,Công cụ=Gemini & Mục đích=Coding Help & Trả phí=No
+0.05258995650454725,Cho phép=No & Mục đích=Coding Help & Trả phí=Yes
+0.05061289047054172,Mục đích=Coding Help & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.05852115460656386,Cho phép=Yes & Mục đích=Coding Help & Trả phí=No
+0.057730328192961644,Giờ dùng=1 đến dưới 3h & Mục đích=Coding Help & Trả phí=No
+0.05338078291814947,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Mục đích=Coding Help
+0.1609331751680506,Mục đích=Assignments & Mục đích=Coding Help
+0.11190193752471332,Mục đích=Assignments & Trả phí=No
+0.1047844998022934,Cho phép=No & Mục đích=Assignments
+0.10162119414788454,Mục đích=Assignments & Ảnh hưởng điểm=Dương
+0.09529458283906682,Công cụ=Gemini & Mục đích=Assignments
+0.09529458283906682,Mục đích=Assignments & Tin tưởng=Thấp
+0.08975879794385132,Giờ dùng=Từ 3h & Mục đích=Assignments
+0.07868722815342033,Mục đích=Assignments & Nhận biết=Trung bình
+0.07315144325820483,Công cụ=Copilot & Mục đích=Assignments
+0.06919731119019375,Công cụ=ChatGPT & Mục đích=Assignments
+0.0656385923289838,Internet=High & Mục đích=Assignments
+0.06445235270858046,Mục đích=Assignments & Thiết bị=Mobile
+0.05061289047054172,Mục đích=Assignments & Ưa thích=Copilot
+0.09766706207987347,Mục đích=Assignments & Trả phí=Yes
+0.07354685646500593,Internet=Medium & Mục đích=Assignments
+0.06880189798339265,Mục đích=Assignments & Nhận biết=Cao
+0.09687623566627125,Giờ dùng=1 đến dưới 3h & Mục đích=Assignments
+0.07789640173981811,Mục đích=Assignments & Ảnh hưởng điểm=Âm
+0.07038355081059708,Internet=Poor & Mục đích=Assignments
+0.06366152629497825,Mục đích=Assignments & Ưa thích=ChatGPT
+0.06207987346777382,Mục đích=Assignments & Nhận biết=Thấp
+0.05852115460656386,Mục đích=Assignments & Năm học=3
+0.0656385923289838,Mục đích=Assignments & Thiết bị=Laptop
+0.1047844998022934,Cho phép=Yes & Mục đích=Assignments
+0.07947805456702253,Mục đích=Assignments & Thiết bị=Tablet
+0.07552392249901146,Mục đích=Assignments & Tin tưởng=Cao
+0.05693950177935943,Mục đích=Assignments & Năm học=2
+0.08936338473705022,Mục đích=Assignments & Mục đích=Coding Help & Trả phí=No
+0.07947805456702253,Cho phép=No & Mục đích=Assignments & Mục đích=Coding Help
+0.055357848952155,Cho phép=No & Mục đích=Assignments & Trả phí=No
+0.07908264136022143,Mục đích=Assignments & Mục đích=Coding Help & Ảnh hưởng điểm=Dương
+0.05852115460656386,Mục đích=Assignments & Trả phí=No & Ảnh hưởng điểm=Dương
+0.05219454329774614,Cho phép=Yes & Mục đích=Assignments & Ảnh hưởng điểm=Dương
+0.08461842625543693,Công cụ=Gemini & Mục đích=Assignments & Mục đích=Coding Help
+0.05258995650454725,Công cụ=Gemini & Mục đích=Assignments & Trả phí=No
+0.05219454329774614,Công cụ=Gemini & Mục đích=Assignments & Ảnh hưởng điểm=Dương
+0.07591933570581258,Mục đích=Assignments & Mục đích=Coding Help & Tin tưởng=Thấp
+0.05298536971134836,Cho phép=No & Mục đích=Assignments & Tin tưởng=Thấp
+0.05021747726374061,Mục đích=Assignments & Tin tưởng=Thấp & Trả phí=No
+0.0660340055357849,Giờ dùng=Từ 3h & Mục đích=Assignments & Mục đích=Coding Help
+0.05693950177935943,Mục đích=Assignments & Mục đích=Coding Help & Nhận biết=Trung bình
+0.066429418742586,Công cụ=Copilot & Mục đích=Assignments & Mục đích=Coding Help
+0.06207987346777382,Công cụ=ChatGPT & Mục đích=Assignments & Mục đích=Coding Help
+0.0715697904310004,Mục đích=Assignments & Mục đích=Coding Help & Trả phí=Yes
+0.055357848952155,Internet=Medium & Mục đích=Assignments & Mục đích=Coding Help
+0.05417160933175168,Mục đích=Assignments & Mục đích=Coding Help & Nhận biết=Cao
+0.077500988533017,Giờ dùng=1 đến dưới 3h & Mục đích=Assignments & Mục đích=Coding Help
+0.055357848952155,Giờ dùng=1 đến dưới 3h & Mục đích=Assignments & Trả phí=No
+0.05219454329774614,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Mục đích=Assignments
+0.05693950177935943,Mục đích=Assignments & Mục đích=Coding Help & Ảnh hưởng điểm=Âm
+0.05931198102016608,Internet=Poor & Mục đích=Assignments & Mục đích=Coding Help
+0.05338078291814947,Mục đích=Assignments & Mục đích=Coding Help & Ưa thích=ChatGPT
+0.05021747726374061,Mục đích=Assignments & Mục đích=Coding Help & Thiết bị=Laptop
+0.08145512060102808,Cho phép=Yes & Mục đích=Assignments & Mục đích=Coding Help
+0.056544088572558326,Cho phép=Yes & Mục đích=Assignments & Trả phí=No
+0.06366152629497825,Mục đích=Assignments & Mục đích=Coding Help & Thiết bị=Tablet
+0.055357848952155,Mục đích=Assignments & Mục đích=Coding Help & Tin tưởng=Cao
+0.18228548833531039,Cho phép=No & Internet=Poor
+0.16844602609727166,Internet=Poor & Trả phí=Yes
+0.1546065638592329,Giờ dùng=1 đến dưới 3h & Internet=Poor
+0.15223408461842625,Internet=Poor & Ảnh hưởng điểm=Âm
+0.1506524317912218,Công cụ=Copilot & Internet=Poor
+0.1506524317912218,Công cụ=ChatGPT & Internet=Poor
+0.12257809410834322,Internet=Poor & Thiết bị=Laptop
+0.17319098457888493,Internet=Poor & Trả phí=No
+0.1486753657572163,Internet=Poor & Ảnh hưởng điểm=Dương
+0.1387900355871886,Internet=Poor & Tin tưởng=Cao
+0.11506524317912219,Internet=Poor & Nhận biết=Cao
+0.13602214313958086,Internet=Poor & Tin tưởng=Thấp
+0.15935152234084618,Cho phép=Yes & Internet=Poor
+0.1312771846579676,Internet=Poor & Nhận biết=Trung bình
+0.13918544879398972,Giờ dùng=Từ 3h & Internet=Poor
+0.13562672993277974,Công cụ=Gemini & Internet=Poor
+0.09134045077105575,Cho phép=No & Internet=Poor & Trả phí=Yes
+0.077500988533017,Cho phép=No & Giờ dùng=1 đến dưới 3h & Internet=Poor
+0.0771055753262159,Giờ dùng=1 đến dưới 3h & Internet=Poor & Trả phí=Yes
+0.077500988533017,Giờ dùng=1 đến dưới 3h & Internet=Poor & Trả phí=No
+0.0771055753262159,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Internet=Poor
+0.08540925266903915,Cho phép=No & Internet=Poor & Ảnh hưởng điểm=Âm
+0.07315144325820483,Internet=Poor & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.06801107156979043,Giờ dùng=1 đến dưới 3h & Internet=Poor & Ảnh hưởng điểm=Âm
+0.07908264136022143,Internet=Poor & Trả phí=No & Ảnh hưởng điểm=Âm
+0.06682483194938711,Cho phép=Yes & Internet=Poor & Ảnh hưởng điểm=Âm
+0.07512850929221036,Cho phép=No & Công cụ=Copilot & Internet=Poor
+0.07433768287860815,Công cụ=Copilot & Internet=Poor & Trả phí=Yes
+0.07236061684460261,Công cụ=Copilot & Internet=Poor & Ảnh hưởng điểm=Âm
+0.06880189798339265,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Internet=Poor
+0.07631474891261368,Công cụ=Copilot & Internet=Poor & Trả phí=No
+0.07552392249901146,Cho phép=Yes & Công cụ=Copilot & Internet=Poor
+0.09568999604586793,Công cụ=ChatGPT & Công cụ=Copilot & Internet=Poor
+0.07789640173981811,Công cụ=ChatGPT & Internet=Poor & Trả phí=Yes
+0.07354685646500593,Cho phép=No & Công cụ=ChatGPT & Internet=Poor
+0.06840648477659154,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Internet=Poor
+0.0660340055357849,Công cụ=ChatGPT & Internet=Poor & Ảnh hưởng điểm=Âm
+0.07275603005140371,Công cụ=ChatGPT & Internet=Poor & Trả phí=No
+0.0771055753262159,Cho phép=Yes & Công cụ=ChatGPT & Internet=Poor
+0.06247528667457493,Internet=Poor & Thiết bị=Laptop & Trả phí=Yes
+0.05852115460656386,Giờ dùng=1 đến dưới 3h & Internet=Poor & Thiết bị=Laptop
+0.057334914986160536,Công cụ=Copilot & Internet=Poor & Thiết bị=Laptop
+0.057334914986160536,Cho phép=No & Internet=Poor & Thiết bị=Laptop
+0.05693950177935943,Công cụ=ChatGPT & Internet=Poor & Thiết bị=Laptop
+0.05931198102016608,Internet=Poor & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.05298536971134836,Internet=Poor & Thiết bị=Laptop & Tin tưởng=Thấp
+0.06524317912218268,Cho phép=Yes & Internet=Poor & Thiết bị=Laptop
+0.051403716884143934,Giờ dùng=Từ 3h & Internet=Poor & Thiết bị=Laptop
+0.060102807433768286,Internet=Poor & Thiết bị=Laptop & Trả phí=No
+0.09094503756425465,Cho phép=No & Internet=Poor & Trả phí=No
+0.07354685646500593,Cho phép=No & Internet=Poor & Ảnh hưởng điểm=Dương
+0.0711743772241993,Internet=Poor & Trả phí=No & Ảnh hưởng điểm=Dương
+0.06722024515618821,Giờ dùng=1 đến dưới 3h & Internet=Poor & Ảnh hưởng điểm=Dương
+0.07512850929221036,Cho phép=Yes & Internet=Poor & Ảnh hưởng điểm=Dương
+0.05614867536575722,Công cụ=Copilot & Internet=Poor & Ảnh hưởng điểm=Dương
+0.077500988533017,Internet=Poor & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.06247528667457493,Công cụ=ChatGPT & Internet=Poor & Ảnh hưởng điểm=Dương
+0.077500988533017,Cho phép=No & Internet=Poor & Tin tưởng=Cao
+0.0711743772241993,Internet=Poor & Tin tưởng=Cao & Trả phí=No
+0.0608936338473705,Giờ dùng=1 đến dưới 3h & Internet=Poor & Tin tưởng=Cao
+0.055357848952155,Internet=Poor & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.066429418742586,Công cụ=Copilot & Internet=Poor & Tin tưởng=Cao
+0.06128904705417161,Cho phép=Yes & Internet=Poor & Tin tưởng=Cao
+0.066429418742586,Internet=Poor & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.06445235270858046,Công cụ=ChatGPT & Internet=Poor & Tin tưởng=Cao
+0.06761565836298933,Internet=Poor & Tin tưởng=Cao & Trả phí=Yes
+0.05891656781336497,Giờ dùng=Từ 3h & Internet=Poor & Tin tưởng=Cao
+0.06959272439699486,Cho phép=No & Internet=Poor & Nhận biết=Cao
+0.05693950177935943,Internet=Poor & Nhận biết=Cao & Trả phí=No
+0.05575326215895611,Internet=Poor & Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.05812574139976275,Internet=Poor & Nhận biết=Cao & Trả phí=Yes
+0.05258995650454725,Công cụ=ChatGPT & Internet=Poor & Nhận biết=Cao
+0.051403716884143934,Công cụ=Gemini & Internet=Poor & Nhận biết=Cao
+0.07433768287860815,Cho phép=No & Internet=Poor & Tin tưởng=Thấp
+0.06801107156979043,Internet=Poor & Tin tưởng=Thấp & Trả phí=No
+0.0660340055357849,Giờ dùng=1 đến dưới 3h & Internet=Poor & Tin tưởng=Thấp
+0.057730328192961644,Công cụ=Copilot & Internet=Poor & Tin tưởng=Thấp
+0.05693950177935943,Công cụ=ChatGPT & Internet=Poor & Tin tưởng=Thấp
+0.05693950177935943,Internet=Poor & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.06801107156979043,Internet=Poor & Tin tưởng=Thấp & Trả phí=Yes
+0.06405693950177936,Internet=Poor & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.05298536971134836,Giờ dùng=Từ 3h & Internet=Poor & Tin tưởng=Thấp
+0.06168446026097272,Cho phép=Yes & Internet=Poor & Tin tưởng=Thấp
+0.08224594701463028,Cho phép=Yes & Internet=Poor & Trả phí=No
+0.0771055753262159,Cho phép=Yes & Internet=Poor & Trả phí=Yes
+0.06880189798339265,Internet=Poor & Nhận biết=Trung bình & Trả phí=No
+0.06801107156979043,Cho phép=Yes & Internet=Poor & Nhận biết=Trung bình
+0.05852115460656386,Công cụ=Copilot & Internet=Poor & Nhận biết=Trung bình
+0.053776196124950576,Internet=Poor & Nhận biết=Trung bình & Tin tưởng=Cao
+0.05219454329774614,Internet=Poor & Nhận biết=Trung bình & Ảnh hưởng điểm=Dương
+0.0608936338473705,Giờ dùng=Từ 3h & Internet=Poor & Nhận biết=Trung bình
+0.05693950177935943,Công cụ=ChatGPT & Internet=Poor & Nhận biết=Trung bình
+0.06326611308817714,Cho phép=No & Internet=Poor & Nhận biết=Trung bình
+0.06287069988137604,Internet=Poor & Nhận biết=Trung bình & Ảnh hưởng điểm=Âm
+0.06247528667457493,Internet=Poor & Nhận biết=Trung bình & Trả phí=Yes
+0.05891656781336497,Giờ dùng=1 đến dưới 3h & Internet=Poor & Nhận biết=Trung bình
+0.0719652036378015,Giờ dùng=Từ 3h & Internet=Poor & Trả phí=Yes
+0.06801107156979043,Giờ dùng=Từ 3h & Internet=Poor & Ảnh hưởng điểm=Dương
+0.06287069988137604,Cho phép=Yes & Giờ dùng=Từ 3h & Internet=Poor
+0.060498220640569395,Công cụ=Copilot & Giờ dùng=Từ 3h & Internet=Poor
+0.07631474891261368,Cho phép=No & Giờ dùng=Từ 3h & Internet=Poor
+0.05852115460656386,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Internet=Poor
+0.056544088572558326,Giờ dùng=Từ 3h & Internet=Poor & Ảnh hưởng điểm=Âm
+0.06722024515618821,Giờ dùng=Từ 3h & Internet=Poor & Trả phí=No
+0.06880189798339265,Công cụ=Gemini & Internet=Poor & Trả phí=No
+0.06128904705417161,Công cụ=Gemini & Internet=Poor & Ảnh hưởng điểm=Âm
+0.056544088572558326,Cho phép=Yes & Công cụ=Gemini & Internet=Poor
+0.05575326215895611,Công cụ=Gemini & Giờ dùng=Từ 3h & Internet=Poor
+0.07908264136022143,Cho phép=No & Công cụ=Gemini & Internet=Poor
+0.06682483194938711,Công cụ=Gemini & Internet=Poor & Trả phí=Yes
+0.06207987346777382,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Internet=Poor
+0.06128904705417161,Công cụ=Gemini & Internet=Poor & Tin tưởng=Thấp
+0.06405693950177936,Công cụ=Gemini & Internet=Poor & Ảnh hưởng điểm=Dương
+0.11862396204033215,Năm học=3 & Trả phí=Yes
+0.11783313562672994,Giờ dùng=1 đến dưới 3h & Năm học=3
+0.11783313562672994,Cho phép=No & Năm học=3
+0.10755239224990115,Công cụ=ChatGPT & Năm học=3
+0.10676156583629894,Năm học=3 & Ảnh hưởng điểm=Âm
+0.0992487149070779,Công cụ=Copilot & Năm học=3
+0.0937129300118624,Năm học=3 & Thiết bị=Laptop
+0.09054962435745353,Internet=Poor & Năm học=3
+0.06998813760379596,Nhận biết=Thấp & Năm học=3
+0.12969553183076316,Cho phép=Yes & Năm học=3
+0.12890470541716093,Năm học=3 & Trả phí=No
+0.10280743376828787,Năm học=3 & Ảnh hưởng điểm=Dương
+0.10003954132068012,Năm học=3 & Tin tưởng=Cao
+0.07829181494661921,Năm học=3 & Thiết bị=Mobile
+0.06998813760379596,Internet=High & Năm học=3
+0.09529458283906682,Năm học=3 & Tin tưởng=Thấp
+0.0719652036378015,Nhận biết=Cao & Năm học=3
+0.10003954132068012,Giờ dùng=Từ 3h & Năm học=3
+0.08699090549624358,Internet=Medium & Năm học=3
+0.1055753262158956,Nhận biết=Trung bình & Năm học=3
+0.07552392249901146,Năm học=3 & Thiết bị=Tablet
+0.09450375642546462,Công cụ=Gemini & Năm học=3
+0.06247528667457493,Cho phép=Yes & Năm học=3 & Trả phí=Yes
+0.05338078291814947,Giờ dùng=1 đến dưới 3h & Năm học=3 & Trả phí=Yes
+0.06484776591538158,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Năm học=3
+0.06445235270858046,Giờ dùng=1 đến dưới 3h & Năm học=3 & Trả phí=No
+0.05614867536575722,Cho phép=No & Năm học=3 & Trả phí=Yes
+0.05298536971134836,Cho phép=No & Giờ dùng=1 đến dưới 3h & Năm học=3
+0.06168446026097272,Cho phép=No & Năm học=3 & Trả phí=No
+0.054962435745353894,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Năm học=3
+0.051403716884143934,Công cụ=ChatGPT & Năm học=3 & Trả phí=Yes
+0.05614867536575722,Công cụ=ChatGPT & Năm học=3 & Trả phí=No
+0.06484776591538158,Cho phép=Yes & Công cụ=ChatGPT & Năm học=3
+0.05852115460656386,Cho phép=No & Năm học=3 & Ảnh hưởng điểm=Âm
+0.05693950177935943,Năm học=3 & Trả phí=No & Ảnh hưởng điểm=Âm
+0.06445235270858046,Công cụ=ChatGPT & Công cụ=Copilot & Năm học=3
+0.051008303677342826,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Năm học=3
+0.055357848952155,Cho phép=Yes & Công cụ=Copilot & Năm học=3
+0.05219454329774614,Công cụ=Copilot & Năm học=3 & Trả phí=No
+0.05021747726374061,Công cụ=Copilot & Nhận biết=Trung bình & Năm học=3
+0.053776196124950576,Năm học=3 & Thiết bị=Laptop & Trả phí=No
+0.057730328192961644,Cho phép=Yes & Năm học=3 & Thiết bị=Laptop
+0.06722024515618821,Cho phép=Yes & Năm học=3 & Trả phí=No
+0.05970739422696718,Cho phép=Yes & Năm học=3 & Ảnh hưởng điểm=Dương
+0.05258995650454725,Năm học=3 & Trả phí=No & Ảnh hưởng điểm=Dương
+0.051799130090945035,Giờ dùng=1 đến dưới 3h & Năm học=3 & Ảnh hưởng điểm=Dương
+0.05021747726374061,Năm học=3 & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.054567022538552785,Năm học=3 & Tin tưởng=Cao & Trả phí=No
+0.051403716884143934,Cho phép=No & Năm học=3 & Tin tưởng=Cao
+0.05338078291814947,Giờ dùng=1 đến dưới 3h & Năm học=3 & Tin tưởng=Thấp
+0.05219454329774614,Cho phép=Yes & Năm học=3 & Tin tưởng=Thấp
+0.053776196124950576,Giờ dùng=Từ 3h & Năm học=3 & Trả phí=Yes
+0.05061289047054172,Cho phép=Yes & Giờ dùng=Từ 3h & Năm học=3
+0.05970739422696718,Cho phép=Yes & Nhận biết=Trung bình & Năm học=3
+0.05931198102016608,Nhận biết=Trung bình & Năm học=3 & Trả phí=No
+0.051403716884143934,Giờ dùng=1 đến dưới 3h & Nhận biết=Trung bình & Năm học=3
+0.05021747726374061,Cho phép=No & Công cụ=Gemini & Năm học=3
+0.19572953736654805,Cho phép=No & Nhận biết=Cao
+0.16963226571767498,Nhận biết=Cao & Trả phí=No
+0.15895610913404506,Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.1506524317912218,Nhận biết=Cao & Tin tưởng=Cao
+0.14551206010280743,Giờ dùng=1 đến dưới 3h & Nhận biết=Cao
+0.1763542902332938,Nhận biết=Cao & Trả phí=Yes
+0.1431395808620008,Nhận biết=Cao & Tin tưởng=Thấp
+0.13523131672597866,Công cụ=Gemini & Nhận biết=Cao
+0.1257413997627521,Internet=Medium & Nhận biết=Cao
+0.15025701858442073,Cho phép=Yes & Nhận biết=Cao
+0.14155792803479636,Công cụ=Copilot & Nhận biết=Cao
+0.16923685251087386,Công cụ=ChatGPT & Nhận biết=Cao
+0.1320680110715698,Nhận biết=Cao & Thiết bị=Laptop
+0.1494661921708185,Nhận biết=Cao & Ảnh hưởng điểm=Âm
+0.14669829972321075,Giờ dùng=Từ 3h & Nhận biết=Cao
+0.09845788849347568,Cho phép=No & Nhận biết=Cao & Trả phí=No
+0.0826413602214314,Cho phép=No & Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.07552392249901146,Nhận biết=Cao & Trả phí=No & Ảnh hưởng điểm=Dương
+0.08343218663503361,Nhận biết=Cao & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.07077896401739818,Công cụ=ChatGPT & Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.09094503756425465,Cho phép=No & Nhận biết=Cao & Tin tưởng=Cao
+0.07591933570581258,Nhận biết=Cao & Tin tưởng=Cao & Trả phí=No
+0.0656385923289838,Nhận biết=Cao & Tin tưởng=Cao & Ảnh hưởng điểm=Dương
+0.08699090549624358,Công cụ=ChatGPT & Nhận biết=Cao & Tin tưởng=Cao
+0.07473309608540925,Nhận biết=Cao & Tin tưởng=Cao & Trả phí=Yes
+0.07908264136022143,Cho phép=No & Giờ dùng=1 đến dưới 3h & Nhận biết=Cao
+0.0719652036378015,Giờ dùng=1 đến dưới 3h & Nhận biết=Cao & Trả phí=No
+0.06247528667457493,Giờ dùng=1 đến dưới 3h & Nhận biết=Cao & Tin tưởng=Cao
+0.060102807433768286,Giờ dùng=1 đến dưới 3h & Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.066429418742586,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Nhận biết=Cao
+0.07354685646500593,Giờ dùng=1 đến dưới 3h & Nhận biết=Cao & Trả phí=Yes
+0.07038355081059708,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Nhận biết=Cao
+0.07038355081059708,Giờ dùng=1 đến dưới 3h & Nhận biết=Cao & Ảnh hưởng điểm=Âm
+0.09727164887307237,Cho phép=No & Nhận biết=Cao & Trả phí=Yes
+0.07908264136022143,Cho phép=No & Nhận biết=Cao & Tin tưởng=Thấp
+0.07631474891261368,Nhận biết=Cao & Tin tưởng=Thấp & Trả phí=Yes
+0.06998813760379596,Nhận biết=Cao & Tin tưởng=Thấp & Ảnh hưởng điểm=Dương
+0.06682483194938711,Nhận biết=Cao & Tin tưởng=Thấp & Trả phí=No
+0.055357848952155,Giờ dùng=1 đến dưới 3h & Nhận biết=Cao & Tin tưởng=Thấp
+0.05931198102016608,Công cụ=ChatGPT & Nhận biết=Cao & Tin tưởng=Thấp
+0.05970739422696718,Nhận biết=Cao & Tin tưởng=Thấp & Ảnh hưởng điểm=Âm
+0.06761565836298933,Giờ dùng=Từ 3h & Nhận biết=Cao & Tin tưởng=Thấp
+0.06405693950177936,Cho phép=Yes & Nhận biết=Cao & Tin tưởng=Thấp
+0.08066429418742586,Cho phép=No & Công cụ=Gemini & Nhận biết=Cao
+0.07512850929221036,Công cụ=Gemini & Nhận biết=Cao & Trả phí=Yes
+0.06919731119019375,Công cụ=Gemini & Nhận biết=Cao & Tin tưởng=Thấp
+0.0608936338473705,Công cụ=Gemini & Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.06326611308817714,Công cụ=Gemini & Nhận biết=Cao & Ảnh hưởng điểm=Âm
+0.05970739422696718,Công cụ=Gemini & Giờ dùng=1 đến dưới 3h & Nhận biết=Cao
+0.054567022538552785,Cho phép=Yes & Công cụ=Gemini & Nhận biết=Cao
+0.060102807433768286,Công cụ=Gemini & Nhận biết=Cao & Trả phí=No
+0.056544088572558326,Công cụ=Gemini & Giờ dùng=Từ 3h & Nhận biết=Cao
+0.06959272439699486,Cho phép=No & Internet=Medium & Nhận biết=Cao
+0.06484776591538158,Internet=Medium & Nhận biết=Cao & Trả phí=Yes
+0.05575326215895611,Internet=Medium & Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.05338078291814947,Internet=Medium & Nhận biết=Cao & Tin tưởng=Thấp
+0.0608936338473705,Internet=Medium & Nhận biết=Cao & Trả phí=No
+0.05575326215895611,Giờ dùng=1 đến dưới 3h & Internet=Medium & Nhận biết=Cao
+0.06524317912218268,Công cụ=ChatGPT & Internet=Medium & Nhận biết=Cao
+0.053776196124950576,Internet=Medium & Nhận biết=Cao & Tin tưởng=Cao
+0.051799130090945035,Internet=Medium & Nhận biết=Cao & Thiết bị=Laptop
+0.051403716884143934,Công cụ=Copilot & Internet=Medium & Nhận biết=Cao
+0.05417160933175168,Giờ dùng=Từ 3h & Internet=Medium & Nhận biết=Cao
+0.05614867536575722,Cho phép=Yes & Internet=Medium & Nhận biết=Cao
+0.05338078291814947,Internet=Medium & Nhận biết=Cao & Ảnh hưởng điểm=Âm
+0.07631474891261368,Cho phép=Yes & Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.0711743772241993,Cho phép=Yes & Nhận biết=Cao & Trả phí=No
+0.07908264136022143,Cho phép=Yes & Nhận biết=Cao & Trả phí=Yes
+0.07077896401739818,Cho phép=Yes & Công cụ=ChatGPT & Nhận biết=Cao
+0.05970739422696718,Cho phép=Yes & Nhận biết=Cao & Tin tưởng=Cao
+0.06722024515618821,Công cụ=Copilot & Nhận biết=Cao & Trả phí=No
+0.06524317912218268,Cho phép=Yes & Công cụ=Copilot & Nhận biết=Cao
+0.06168446026097272,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Nhận biết=Cao
+0.0608936338473705,Công cụ=Copilot & Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.09450375642546462,Công cụ=ChatGPT & Công cụ=Copilot & Nhận biết=Cao
+0.07631474891261368,Cho phép=No & Công cụ=Copilot & Nhận biết=Cao
+0.07433768287860815,Công cụ=Copilot & Nhận biết=Cao & Trả phí=Yes
+0.06207987346777382,Công cụ=Copilot & Nhận biết=Cao & Ảnh hưởng điểm=Âm
+0.07077896401739818,Công cụ=Copilot & Nhận biết=Cao & Tin tưởng=Cao
+0.05693950177935943,Công cụ=Copilot & Nhận biết=Cao & Tin tưởng=Thấp
+0.05575326215895611,Công cụ=Copilot & Giờ dùng=Từ 3h & Nhận biết=Cao
+0.09845788849347568,Cho phép=No & Công cụ=ChatGPT & Nhận biết=Cao
+0.08659549228944247,Công cụ=ChatGPT & Nhận biết=Cao & Trả phí=Yes
+0.0826413602214314,Công cụ=ChatGPT & Nhận biết=Cao & Trả phí=No
+0.06919731119019375,Công cụ=ChatGPT & Nhận biết=Cao & Thiết bị=Laptop
+0.066429418742586,Nhận biết=Cao & Thiết bị=Laptop & Trả phí=Yes
+0.06405693950177936,Cho phép=No & Nhận biết=Cao & Thiết bị=Laptop
+0.060498220640569395,Nhận biết=Cao & Thiết bị=Laptop & Tin tưởng=Thấp
+0.057334914986160536,Nhận biết=Cao & Thiết bị=Laptop & Ảnh hưởng điểm=Dương
+0.05338078291814947,Giờ dùng=1 đến dưới 3h & Nhận biết=Cao & Thiết bị=Laptop
+0.06801107156979043,Cho phép=Yes & Nhận biết=Cao & Thiết bị=Laptop
+0.0660340055357849,Nhận biết=Cao & Thiết bị=Laptop & Ảnh hưởng điểm=Âm
+0.060102807433768286,Công cụ=Gemini & Nhận biết=Cao & Thiết bị=Laptop
+0.05693950177935943,Nhận biết=Cao & Thiết bị=Laptop & Tin tưởng=Cao
+0.055357848952155,Công cụ=Copilot & Nhận biết=Cao & Thiết bị=Laptop
+0.0656385923289838,Nhận biết=Cao & Thiết bị=Laptop & Trả phí=No
+0.06326611308817714,Giờ dùng=Từ 3h & Nhận biết=Cao & Thiết bị=Laptop
+0.09213127718465797,Cho phép=No & Nhận biết=Cao & Ảnh hưởng điểm=Âm
+0.07552392249901146,Công cụ=ChatGPT & Nhận biết=Cao & Ảnh hưởng điểm=Âm
+0.07394226967180703,Nhận biết=Cao & Trả phí=Yes & Ảnh hưởng điểm=Âm
+0.06722024515618821,Nhận biết=Cao & Tin tưởng=Cao & Ảnh hưởng điểm=Âm
+0.057334914986160536,Cho phép=Yes & Nhận biết=Cao & Ảnh hưởng điểm=Âm
+0.07552392249901146,Nhận biết=Cao & Trả phí=No & Ảnh hưởng điểm=Âm
+0.08580466587584025,Cho phép=No & Giờ dùng=Từ 3h & Nhận biết=Cao
+0.07552392249901146,Giờ dùng=Từ 3h & Nhận biết=Cao & Trả phí=Yes
+0.06840648477659154,Công cụ=ChatGPT & Giờ dùng=Từ 3h & Nhận biết=Cao
+0.054567022538552785,Giờ dùng=Từ 3h & Nhận biết=Cao & Ảnh hưởng điểm=Âm
+0.07829181494661921,Giờ dùng=Từ 3h & Nhận biết=Cao & Ảnh hưởng điểm=Dương
+0.0711743772241993,Giờ dùng=Từ 3h & Nhận biết=Cao & Trả phí=No
+0.06247528667457493,Giờ dùng=Từ 3h & Nhận biết=Cao & Tin tưởng=Cao
+0.0608936338473705,Cho phép=Yes & Giờ dùng=Từ 3h & Nhận biết=Cao
+0.09845788849347568,Mục đích=MCQ Practice & Trả phí=No
+0.09292210359826018,Cho phép=No & Mục đích=MCQ Practice
+0.08975879794385132,Giờ dùng=1 đến dưới 3h & Mục đích=MCQ Practice
+0.08540925266903915,Mục đích=MCQ Practice & Tin tưởng=Cao
+0.08343218663503361,Mục đích=MCQ Practice & Ảnh hưởng điểm=Dương
+0.07354685646500593,Mục đích=MCQ Practice & Nhận biết=Cao
+0.06484776591538158,Internet=Poor & Mục đích=MCQ Practice
+0.05852115460656386,Mục đích=MCQ Practice & Thiết bị=Tablet
+0.099644128113879,Cho phép=Yes & Mục đích=MCQ Practice
+0.08224594701463028,Công cụ=Copilot & Mục đích=MCQ Practice
+0.051403716884143934,Mục đích=MCQ Practice & Thiết bị=Mobile
+0.06484776591538158,Mục đích=MCQ Practice & Nhận biết=Trung bình
+0.056544088572558326,Mục đích=MCQ Practice & Năm học=1
+0.0941083432186635,Mục đích=MCQ Practice & Trả phí=Yes
+0.09134045077105575,Công cụ=ChatGPT & Mục đích=MCQ Practice
+0.09094503756425465,Mục đích=MCQ Practice & Ảnh hưởng điểm=Âm
+0.05891656781336497,Internet=High & Mục đích=MCQ Practice
+0.0826413602214314,Mục đích=MCQ Practice & Thiết bị=Laptop
+0.08185053380782918,Mục đích=MCQ Practice & Tin tưởng=Thấp
+0.051008303677342826,Mục đích=MCQ Practice & Ưa thích=Copilot
+0.05417160933175168,Mục đích=MCQ Practice & Nhận biết=Thấp
+0.07671016211941478,Giờ dùng=Từ 3h & Mục đích=MCQ Practice
+0.07275603005140371,Công cụ=Gemini & Mục đích=MCQ Practice
+0.06880189798339265,Internet=Medium & Mục đích=MCQ Practice
+0.051008303677342826,Cho phép=Yes & Mục đích=MCQ Practice & Ảnh hưởng điểm=Dương
+0.05219454329774614,Công cụ=ChatGPT & Công cụ=Copilot & Mục đích=MCQ Practice
+0.05021747726374061,Cho phép=Yes & Mục đích=MCQ Practice & Trả phí=Yes
+0.051799130090945035,Cho phép=Yes & Công cụ=ChatGPT & Mục đích=MCQ Practice
+0.05338078291814947,Cho phép=No & Mục đích=MCQ Practice & Ảnh hưởng điểm=Âm
+0.06998813760379596,Cho phép=No & Ngành=Engineering
+0.06722024515618821,Ngành=Engineering & Trả phí=No
+0.06524317912218268,Giờ dùng=1 đến dưới 3h & Ngành=Engineering
+0.06247528667457493,Ngành=Engineering & Ảnh hưởng điểm=Dương
+0.05931198102016608,Ngành=Engineering & Ảnh hưởng điểm=Âm
+0.057334914986160536,Ngành=Engineering & Tin tưởng=Thấp
+0.054962435745353894,Công cụ=Gemini & Ngành=Engineering
+0.066429418742586,Ngành=Engineering & Trả phí=Yes
+0.0715697904310004,Công cụ=ChatGPT & Ngành=Engineering
+0.066429418742586,Công cụ=Copilot & Ngành=Engineering
+0.06366152629497825,Cho phép=Yes & Ngành=Engineering
+0.06840648477659154,Ngành=Engineering & Thiết bị=Laptop
+0.053776196124950576,Công cụ=ChatGPT & Công cụ=Copilot & Ngành=Engineering
+0.08105970739422697,Mục đích=Resume Writing & Trả phí=No
+0.07868722815342033,Giờ dùng=1 đến dưới 3h & Mục đích=Resume Writing
+0.07512850929221036,Mục đích=Resume Writing & Tin tưởng=Cao
+0.07394226967180703,Cho phép=Yes & Mục đích=Resume Writing
+0.06998813760379596,Mục đích=Resume Writing & Ảnh hưởng điểm=Dương
+0.06247528667457493,Mục đích=Resume Writing & Nhận biết=Trung bình
+0.051008303677342826,Mục đích=Resume Writing & Thiết bị=Tablet
+0.09173586397785687,Cho phép=No & Mục đích=Resume Writing
+0.07394226967180703,Mục đích=Resume Writing & Ảnh hưởng điểm=Âm
+0.06405693950177936,Internet=Medium & Mục đích=Resume Writing
+0.06207987346777382,Mục đích=Resume Writing & Tin tưởng=Thấp
+0.05061289047054172,Mục đích=Resume Writing & Nhận biết=Thấp
+0.08461842625543693,Mục đích=Resume Writing & Trả phí=Yes
+0.060102807433768286,Công cụ=ChatGPT & Mục đích=Resume Writing
+0.05417160933175168,Internet=Poor & Mục đích=Resume Writing
+0.06998813760379596,Giờ dùng=Từ 3h & Mục đích=Resume Writing
+0.06801107156979043,Công cụ=Copilot & Mục đích=Resume Writing
+0.051008303677342826,Mục đích=Resume Writing & Thiết bị=Mobile
+0.06366152629497825,Mục đích=Resume Writing & Thiết bị=Laptop
+0.05258995650454725,Mục đích=Resume Writing & Nhận biết=Cao
+0.05061289047054172,Cho phép=No & Mục đích=Resume Writing & Trả phí=Yes
+0.10952945828390669,Mục đích=Doubt Solving & Mục đích=Resume Writing
+0.08026888098062475,Mục đích=Doubt Solving & Trả phí=No
+0.07631474891261368,Cho phép=Yes & Mục đích=Doubt Solving
+0.07354685646500593,Giờ dùng=1 đến dưới 3h & Mục đích=Doubt Solving
+0.07315144325820483,Mục đích=Doubt Solving & Tin tưởng=Cao
+0.07038355081059708,Mục đích=Doubt Solving & Ảnh hưởng điểm=Dương
+0.06366152629497825,Mục đích=Doubt Solving & Nhận biết=Trung bình
+0.051008303677342826,Mục đích=Doubt Solving & Thiết bị=Tablet
+0.08896797153024912,Cho phép=No & Mục đích=Doubt Solving
+0.07473309608540925,Mục đích=Doubt Solving & Ảnh hưởng điểm=Âm
+0.06484776591538158,Mục đích=Doubt Solving & Tin tưởng=Thấp
+0.06207987346777382,Internet=Medium & Mục đích=Doubt Solving
+0.05061289047054172,Mục đích=Doubt Solving & Nhận biết=Thấp
+0.06761565836298933,Công cụ=Copilot & Mục đích=Doubt Solving
+0.051403716884143934,Mục đích=Doubt Solving & Thiết bị=Mobile
+0.08501383946223803,Mục đích=Doubt Solving & Trả phí=Yes
+0.06207987346777382,Công cụ=ChatGPT & Mục đích=Doubt Solving
+0.053776196124950576,Internet=Poor & Mục đích=Doubt Solving
+0.07394226967180703,Giờ dùng=Từ 3h & Mục đích=Doubt Solving
+0.06287069988137604,Mục đích=Doubt Solving & Thiết bị=Laptop
+0.051008303677342826,Mục đích=Doubt Solving & Nhận biết=Cao
+0.051403716884143934,Mục đích=Doubt Solving & Mục đích=Resume Writing & Trả phí=No
+0.05021747726374061,Cho phép=Yes & Mục đích=Doubt Solving & Mục đích=Resume Writing
+0.05417160933175168,Giờ dùng=1 đến dưới 3h & Mục đích=Doubt Solving & Mục đích=Resume Writing
+0.051403716884143934,Mục đích=Doubt Solving & Mục đích=Resume Writing & Tin tưởng=Cao
+0.05931198102016608,Cho phép=No & Mục đích=Doubt Solving & Mục đích=Resume Writing
+0.05852115460656386,Công cụ=Copilot & Mục đích=Doubt Solving & Mục đích=Resume Writing
+0.05812574139976275,Mục đích=Doubt Solving & Mục đích=Resume Writing & Trả phí=Yes
+0.05021747726374061,Công cụ=ChatGPT & Mục đích=Doubt Solving & Mục đích=Resume Writing
+0.09213127718465797,Công cụ=Gemini & Công cụ=Midjourney
+0.05575326215895611,Cho phép=No & Công cụ=Midjourney
+0.05575326215895611,Cho phép=No & Công cụ=Gemini & Công cụ=Midjourney
+0.13404507710557534,Cho phép=No & Năm học=1
+0.1221826809015421,Năm học=1 & Trả phí=No
+0.10320284697508897,Năm học=1 & Ảnh hưởng điểm=Âm
+0.09529458283906682,Công cụ=Gemini & Năm học=1
+0.09489916963226572,Năm học=1 & Tin tưởng=Thấp
+0.0881771451166469,Năm học=1 & Thiết bị=Tablet
+0.08382759984183472,Internet=Medium & Năm học=1
+0.07671016211941478,Nhận biết=Thấp & Năm học=1
+0.10952945828390669,Công cụ=ChatGPT & Năm học=1
+0.10241202056148675,Công cụ=Copilot & Năm học=1
+0.08026888098062475,Internet=Poor & Năm học=1
+0.10636615262949782,Cho phép=Yes & Năm học=1
+0.09608540925266904,Năm học=1 & Tin tưởng=Cao
+0.08975879794385132,Nhận biết=Trung bình & Năm học=1
+0.06840648477659154,Năm học=1 & Thiết bị=Mobile
+0.11822854883353104,Năm học=1 & Trả phí=Yes
+0.11387900355871886,Năm học=1 & Ảnh hưởng điểm=Dương
+0.09806247528667457,Giờ dùng=1 đến dưới 3h & Năm học=1
+0.07394226967180703,Nhận biết=Cao & Năm học=1
+0.10399367338869119,Giờ dùng=Từ 3h & Năm học=1
+0.07631474891261368,Internet=High & Năm học=1
+0.08382759984183472,Năm học=1 & Thiết bị=Laptop
+0.06998813760379596,Cho phép=No & Năm học=1 & Trả phí=No
+0.06524317912218268,Cho phép=No & Năm học=1 & Ảnh hưởng điểm=Âm
+0.05338078291814947,Năm học=1 & Trả phí=No & Ảnh hưởng điểm=Âm
+0.05891656781336497,Cho phép=No & Công cụ=Gemini & Năm học=1
+0.05575326215895611,Cho phép=No & Năm học=1 & Tin tưởng=Thấp
+0.05021747726374061,Năm học=1 & Tin tưởng=Thấp & Trả phí=No
+0.05417160933175168,Cho phép=No & Năm học=1 & Thiết bị=Tablet
+0.057334914986160536,Cho phép=No & Công cụ=ChatGPT & Năm học=1
+0.055357848952155,Công cụ=ChatGPT & Năm học=1 & Trả phí=No
+0.05417160933175168,Công cụ=ChatGPT & Năm học=1 & Trả phí=Yes
+0.05258995650454725,Công cụ=ChatGPT & Năm học=1 & Ảnh hưởng điểm=Dương
+0.06682483194938711,Công cụ=ChatGPT & Công cụ=Copilot & Năm học=1
+0.053776196124950576,Cho phép=No & Công cụ=Copilot & Năm học=1
+0.05219454329774614,Công cụ=Copilot & Năm học=1 & Ảnh hưởng điểm=Âm
+0.05338078291814947,Công cụ=Copilot & Năm học=1 & Trả phí=Yes
+0.05219454329774614,Cho phép=Yes & Năm học=1 & Trả phí=No
+0.05417160933175168,Cho phép=Yes & Năm học=1 & Trả phí=Yes
+0.057730328192961644,Cho phép=Yes & Năm học=1 & Ảnh hưởng điểm=Dương
+0.05219454329774614,Cho phép=Yes & Công cụ=ChatGPT & Năm học=1
+0.051008303677342826,Công cụ=Copilot & Năm học=1 & Tin tưởng=Cao
+0.05219454329774614,Công cụ=ChatGPT & Năm học=1 & Tin tưởng=Cao
+0.051008303677342826,Năm học=1 & Tin tưởng=Cao & Trả phí=Yes
+0.06405693950177936,Cho phép=No & Năm học=1 & Trả phí=Yes
+0.056544088572558326,Năm học=1 & Trả phí=Yes & Ảnh hưởng điểm=Dương
+0.05614867536575722,Cho phép=No & Năm học=1 & Ảnh hưởng điểm=Dương
+0.057334914986160536,Năm học=1 & Trả phí=No & Ảnh hưởng điểm=Dương
+0.05258995650454725,Cho phép=No & Giờ dùng=1 đến dưới 3h & Năm học=1
+0.051403716884143934,Giờ dùng=1 đến dưới 3h & Năm học=1 & Trả phí=Yes
+0.05061289047054172,Giờ dùng=Từ 3h & Năm học=1 & Trả phí=Yes
+0.05970739422696718,Cho phép=No & Giờ dùng=Từ 3h & Năm học=1
+0.05931198102016608,Giờ dùng=Từ 3h & Năm học=1 & Ảnh hưởng điểm=Dương
+0.05338078291814947,Giờ dùng=Từ 3h & Năm học=1 & Trả phí=No
+0.07433768287860815,Cho phép=No & Giờ dùng=Dưới 1h
+0.06959272439699486,Giờ dùng=Dưới 1h & Trả phí=No
+0.06682483194938711,Giờ dùng=Dưới 1h & Ảnh hưởng điểm=Âm
+0.05891656781336497,Giờ dùng=Dưới 1h & Trả phí=Yes
+0.053776196124950576,Giờ dùng=Dưới 1h & Nhận biết=Cao
+0.06287069988137604,Công cụ=ChatGPT & Giờ dùng=Dưới 1h
+0.05970739422696718,Công cụ=Copilot & Giờ dùng=Dưới 1h
+0.054567022538552785,Giờ dùng=Dưới 1h & Tin tưởng=Cao
+0.05417160933175168,Cho phép=Yes & Giờ dùng=Dưới 1h
+0.12969553183076316,Trả phí=No & Ưa thích=ChatGPT
+0.11822854883353104,Giờ dùng=1 đến dưới 3h & Ưa thích=ChatGPT
+0.1162514827995255,Công cụ=Copilot & Ưa thích=ChatGPT
+0.11387900355871886,Ưa thích=ChatGPT & Ảnh hưởng điểm=Dương
+0.10952945828390669,Cho phép=Yes & Ưa thích=ChatGPT
+0.0941083432186635,Tin tưởng=Cao & Ưa thích=ChatGPT
+0.07789640173981811,Thiết bị=Mobile & Ưa thích=ChatGPT
+0.06959272439699486,Nhận biết=Thấp & Ưa thích=ChatGPT
+0.06880189798339265,Internet=High & Ưa thích=ChatGPT
+0.13009094503756424,Cho phép=No & Ưa thích=ChatGPT
+0.11229735073151444,Công cụ=ChatGPT & Ưa thích=ChatGPT
+0.10201660735468565,Tin tưởng=Thấp & Ưa thích=ChatGPT
+0.09766706207987347,Ưa thích=ChatGPT & Ảnh hưởng điểm=Âm
+0.08224594701463028,Internet=Poor & Ưa thích=ChatGPT
+0.0771055753262159,Nhận biết=Trung bình & Ưa thích=ChatGPT
+0.055357848952155,Năm học=1 & Ưa thích=ChatGPT
+0.10992487149070779,Trả phí=Yes & Ưa thích=ChatGPT
+0.06366152629497825,Năm học=4 & Ưa thích=ChatGPT
+0.09292210359826018,Nhận biết=Cao & Ưa thích=ChatGPT
+0.088572558323448,Internet=Medium & Ưa thích=ChatGPT
+0.0719652036378015,Năm học=2 & Ưa thích=ChatGPT
+0.08461842625543693,Thiết bị=Tablet & Ưa thích=ChatGPT
+0.10122578094108343,Giờ dùng=Từ 3h & Ưa thích=ChatGPT
+0.0771055753262159,Thiết bị=Laptop & Ưa thích=ChatGPT
+0.088572558323448,Công cụ=Gemini & Ưa thích=ChatGPT
+0.07354685646500593,Cho phép=No & Trả phí=No & Ưa thích=ChatGPT
+0.06287069988137604,Giờ dùng=1 đến dưới 3h & Trả phí=No & Ưa thích=ChatGPT
+0.06168446026097272,Cho phép=No & Giờ dùng=1 đến dưới 3h & Ưa thích=ChatGPT
+0.06326611308817714,Công cụ=Copilot & Trả phí=No & Ưa thích=ChatGPT
+0.057334914986160536,Công cụ=Copilot & Giờ dùng=1 đến dưới 3h & Ưa thích=ChatGPT
+0.06326611308817714,Cho phép=No & Công cụ=Copilot & Ưa thích=ChatGPT
+0.06207987346777382,Trả phí=No & Ưa thích=ChatGPT & Ảnh hưởng điểm=Dương
+0.05258995650454725,Giờ dùng=1 đến dưới 3h & Ưa thích=ChatGPT & Ảnh hưởng điểm=Dương
+0.060498220640569395,Cho phép=No & Ưa thích=ChatGPT & Ảnh hưởng điểm=Dương
+0.056544088572558326,Cho phép=Yes & Giờ dùng=1 đến dưới 3h & Ưa thích=ChatGPT
+0.05614867536575722,Cho phép=Yes & Trả phí=No & Ưa thích=ChatGPT
+0.05338078291814947,Cho phép=Yes & Ưa thích=ChatGPT & Ảnh hưởng điểm=Dương
+0.05298536971134836,Cho phép=Yes & Công cụ=Copilot & Ưa thích=ChatGPT
+0.05338078291814947,Cho phép=Yes & Trả phí=Yes & Ưa thích=ChatGPT
+0.05258995650454725,Giờ dùng=1 đến dưới 3h & Tin tưởng=Cao & Ưa thích=ChatGPT
+0.05219454329774614,Công cụ=Copilot & Tin tưởng=Cao & Ưa thích=ChatGPT
+0.051008303677342826,Tin tưởng=Cao & Trả phí=No & Ưa thích=ChatGPT
+0.05258995650454725,Cho phép=No & Tin tưởng=Cao & Ưa thích=ChatGPT
+0.07315144325820483,Công cụ=ChatGPT & Công cụ=Copilot & Ưa thích=ChatGPT
+0.06247528667457493,Cho phép=No & Công cụ=ChatGPT & Ưa thích=ChatGPT
+0.06128904705417161,Công cụ=ChatGPT & Trả phí=No & Ưa thích=ChatGPT
+0.05812574139976275,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Ưa thích=ChatGPT
+0.05614867536575722,Tin tưởng=Thấp & Trả phí=No & Ưa thích=ChatGPT
+0.05258995650454725,Cho phép=No & Tin tưởng=Thấp & Ưa thích=ChatGPT
+0.05061289047054172,Tin tưởng=Thấp & Ưa thích=ChatGPT & Ảnh hưởng điểm=Dương
+0.05614867536575722,Cho phép=No & Ưa thích=ChatGPT & Ảnh hưởng điểm=Âm
+0.054567022538552785,Công cụ=Copilot & Ưa thích=ChatGPT & Ảnh hưởng điểm=Âm
+0.05338078291814947,Trả phí=No & Ưa thích=ChatGPT & Ảnh hưởng điểm=Âm
+0.05021747726374061,Giờ dùng=1 đến dưới 3h & Ưa thích=ChatGPT & Ảnh hưởng điểm=Âm
+0.055357848952155,Giờ dùng=1 đến dưới 3h & Trả phí=Yes & Ưa thích=ChatGPT
+0.051008303677342826,Công cụ=ChatGPT & Trả phí=Yes & Ưa thích=ChatGPT
+0.056544088572558326,Cho phép=No & Trả phí=Yes & Ưa thích=ChatGPT
+0.05298536971134836,Công cụ=Copilot & Trả phí=Yes & Ưa thích=ChatGPT
+0.051799130090945035,Trả phí=Yes & Ưa thích=ChatGPT & Ảnh hưởng điểm=Dương
+0.05931198102016608,Cho phép=No & Nhận biết=Cao & Ưa thích=ChatGPT
+0.051799130090945035,Nhận biết=Cao & Trả phí=No & Ưa thích=ChatGPT
+0.05021747726374061,Cho phép=No & Internet=Medium & Ưa thích=ChatGPT
+0.051403716884143934,Giờ dùng=Từ 3h & Ưa thích=ChatGPT & Ảnh hưởng điểm=Dương
+0.051403716884143934,Công cụ=Copilot & Giờ dùng=Từ 3h & Ưa thích=ChatGPT
+0.05852115460656386,Cho phép=No & Giờ dùng=Từ 3h & Ưa thích=ChatGPT
+0.05575326215895611,Giờ dùng=Từ 3h & Trả phí=No & Ưa thích=ChatGPT
+0.05614867536575722,Cho phép=No & Công cụ=Gemini & Ưa thích=ChatGPT
+0.05891656781336497,Ngành=Arts & Trả phí=No
+0.057730328192961644,Ngành=Arts & Ảnh hưởng điểm=Dương
+0.054962435745353894,Cho phép=Yes & Ngành=Arts
+0.053776196124950576,Công cụ=Copilot & Ngành=Arts
+0.060498220640569395,Cho phép=No & Ngành=Arts
+0.056544088572558326,Ngành=Arts & Trả phí=Yes
+0.056544088572558326,Giờ dùng=Từ 3h & Ngành=Arts
+0.09529458283906682,Cho phép=Yes & Mục đích=Exam Prep
+0.0881771451166469,Mục đích=Exam Prep & Trả phí=No
+0.08105970739422697,Mục đích=Exam Prep & Ảnh hưởng điểm=Dương
+0.0719652036378015,Công cụ=Copilot & Mục đích=Exam Prep
+0.06919731119019375,Giờ dùng=1 đến dưới 3h & Mục đích=Exam Prep
+0.066429418742586,Internet=Poor & Mục đích=Exam Prep
+0.05812574139976275,Mục đích=Exam Prep & Nhận biết=Cao
+0.051403716884143934,Mục đích=Exam Prep & Năm học=2
+0.08896797153024912,Mục đích=Exam Prep & Trả phí=Yes
+0.08620007908264136,Công cụ=ChatGPT & Mục đích=Exam Prep
+0.07394226967180703,Mục đích=Exam Prep & Ảnh hưởng điểm=Âm
+0.0660340055357849,Mục đích=Exam Prep & Tin tưởng=Cao
+0.060102807433768286,Mục đích=Exam Prep & Nhận biết=Trung bình
+0.051403716884143934,Internet=High & Mục đích=Exam Prep
+0.05891656781336497,Mục đích=Exam Prep & Nhận biết=Thấp
+0.05219454329774614,Mục đích=Exam Prep & Thiết bị=Tablet
+0.08105970739422697,Giờ dùng=Từ 3h & Mục đích=Exam Prep
+0.07552392249901146,Mục đích=Exam Prep & Thiết bị=Laptop
+0.08185053380782918,Cho phép=No & Mục đích=Exam Prep
+0.06405693950177936,Công cụ=Gemini & Mục đích=Exam Prep
+0.05931198102016608,Internet=Medium & Mục đích=Exam Prep
+0.06484776591538158,Mục đích=Exam Prep & Tin tưởng=Thấp
+0.05021747726374061,Cho phép=Yes & Mục đích=Exam Prep & Trả phí=No
+0.13958086200079084,Mục đích=MCQ Practice & Mục đích=Projects
+0.09845788849347568,Mục đích=Projects & Trả phí=No
+0.09648082245947015,Cho phép=Yes & Mục đích=Projects
+0.08343218663503361,Mục đích=Projects & Tin tưởng=Cao
+0.07868722815342033,Công cụ=Copilot & Mục đích=Projects
+0.06168446026097272,Internet=Poor & Mục đích=Projects
+0.0608936338473705,Mục đích=Projects & Nhận biết=Trung bình
+0.057730328192961644,Mục đích=Projects & Thiết bị=Mobile
+0.05614867536575722,Mục đích=Projects & Năm học=1
+0.09489916963226572,Cho phép=No & Mục đích=Projects
+0.09292210359826018,Mục đích=Projects & Trả phí=Yes
+0.09252669039145907,Giờ dùng=1 đến dưới 3h & Mục đích=Projects
+0.09015421115065243,Công cụ=ChatGPT & Mục đích=Projects
+0.0830367734282325,Mục đích=Projects & Ảnh hưởng điểm=Dương
+0.07947805456702253,Mục đích=Projects & Tin tưởng=Thấp
+0.07671016211941478,Mục đích=Projects & Nhận biết=Cao
+0.07671016211941478,Mục đích=Projects & Thiết bị=Laptop
+0.051799130090945035,Mục đích=Projects & Ưa thích=Copilot
+0.06722024515618821,Internet=Medium & Mục đích=Projects
+0.05693950177935943,Mục đích=Projects & Thiết bị=Tablet
+0.09054962435745353,Mục đích=Projects & Ảnh hưởng điểm=Âm
+0.06247528667457493,Internet=High & Mục đích=Projects
+0.051008303677342826,Mục đích=Projects & Năm học=3
+0.07354685646500593,Công cụ=Gemini & Mục đích=Projects
+0.0719652036378015,Giờ dùng=Từ 3h & Mục đích=Projects
+0.053776196124950576,Mục đích=Projects & Nhận biết=Thấp
+0.07315144325820483,Mục đích=MCQ Practice & Mục đích=Projects & Trả phí=No
+0.07315144325820483,Cho phép=Yes & Mục đích=MCQ Practice & Mục đích=Projects
+0.06445235270858046,Mục đích=MCQ Practice & Mục đích=Projects & Tin tưởng=Cao
+0.0711743772241993,Công cụ=Copilot & Mục đích=MCQ Practice & Mục đích=Projects
+0.05219454329774614,Công cụ=ChatGPT & Công cụ=Copilot & Mục đích=Projects
+0.066429418742586,Cho phép=No & Mục đích=MCQ Practice & Mục đích=Projects
+0.05219454329774614,Cho phép=No & Mục đích=Projects & Trả phí=No
+0.066429418742586,Mục đích=MCQ Practice & Mục đích=Projects & Trả phí=Yes
+0.05021747726374061,Cho phép=Yes & Mục đích=Projects & Trả phí=Yes
+0.07038355081059708,Giờ dùng=1 đến dưới 3h & Mục đích=MCQ Practice & Mục đích=Projects
+0.08066429418742586,Công cụ=ChatGPT & Mục đích=MCQ Practice & Mục đích=Projects
+0.051799130090945035,Công cụ=ChatGPT & Giờ dùng=1 đến dưới 3h & Mục đích=Projects
+0.06128904705417161,Mục đích=MCQ Practice & Mục đích=Projects & Ảnh hưởng điểm=Dương
+0.05931198102016608,Mục đích=MCQ Practice & Mục đích=Projects & Tin tưởng=Thấp
+0.057334914986160536,Mục đích=MCQ Practice & Mục đích=Projects & Nhận biết=Cao
+0.06168446026097272,Mục đích=MCQ Practice & Mục đích=Projects & Thiết bị=Laptop
+0.05338078291814947,Cho phép=No & Mục đích=Projects & Ảnh hưởng điểm=Âm
+0.06366152629497825,Mục đích=MCQ Practice & Mục đích=Projects & Ảnh hưởng điểm=Âm
+0.06484776591538158,Công cụ=Gemini & Mục đích=MCQ Practice & Mục đích=Projects
+0.08580466587584025,Ngành=Science & Trả phí=No
+0.0719652036378015,Cho phép=Yes & Ngành=Science
+0.07077896401739818,Ngành=Science & Tin tưởng=Cao
+0.07038355081059708,Công cụ=Copilot & Ngành=Science
+0.05812574139976275,Internet=Poor & Ngành=Science
+0.05417160933175168,Ngành=Science & Nhận biết=Trung bình
+0.05258995650454725,Ngành=Science & Ưa thích=ChatGPT
+0.05061289047054172,Ngành=Science & Năm học=1
+0.06998813760379596,Giờ dùng=1 đến dưới 3h & Ngành=Science
+0.06919731119019375,Công cụ=ChatGPT & Ngành=Science
+0.06207987346777382,Ngành=Science & Ảnh hưởng điểm=Âm
+0.05931198102016608,Ngành=Science & Thiết bị=Tablet
+0.05852115460656386,Ngành=Science & Nhận biết=Thấp
+0.09134045077105575,Cho phép=No & Ngành=Science
+0.07829181494661921,Ngành=Science & Ảnh hưởng điểm=Dương
+0.077500988533017,Ngành=Science & Trả phí=Yes
+0.06247528667457493,Ngành=Science & Tin tưởng=Thấp
+0.077500988533017,Giờ dùng=Từ 3h & Ngành=Science
+0.05614867536575722,Internet=Medium & Ngành=Science
+0.057730328192961644,Ngành=Science & Thiết bị=Laptop
+0.05061289047054172,Ngành=Science & Nhận biết=Cao
+0.06959272439699486,Công cụ=Gemini & Ngành=Science
+0.05219454329774614,Cho phép=No & Giờ dùng=Từ 3h & Ngành=Science
+0.06801107156979043,Công cụ=Copilot & Ảnh hưởng điểm=Bằng 0
+0.0656385923289838,Trả phí=No & Ảnh hưởng điểm=Bằng 0
+0.060102807433768286,Cho phép=Yes & Ảnh hưởng điểm=Bằng 0
+0.05614867536575722,Tin tưởng=Cao & Ảnh hưởng điểm=Bằng 0
+0.054962435745353894,Nhận biết=Trung bình & Ảnh hưởng điểm=Bằng 0
+0.06682483194938711,Giờ dùng=1 đến dưới 3h & Ảnh hưởng điểm=Bằng 0
+0.06998813760379596,Cho phép=No & Ảnh hưởng điểm=Bằng 0
+0.06445235270858046,Trả phí=Yes & Ảnh hưởng điểm=Bằng 0
+0.06722024515618821,Công cụ=ChatGPT & Ảnh hưởng điểm=Bằng 0
+0.06168446026097272,Công cụ=ChatGPT & Ngành=Management
+0.057730328192961644,Cho phép=No & Ngành=Management
+0.05219454329774614,Ngành=Management & Tin tưởng=Cao
+0.05693950177935943,Cho phép=Yes & Ngành=Management
+0.066429418742586,Ngành=Management & Trả phí=No
+0.05338078291814947,Công cụ=Copilot & Ngành=Management
+0.12336892052194544,Mục đích=Exam Prep & Mục đích=Notes
+0.066429418742586,Cho phép=Yes & Mục đích=Notes
+0.06128904705417161,Công cụ=Copilot & Mục đích=Notes
+0.05931198102016608,Mục đích=Notes & Trả phí=Yes
+0.056544088572558326,Mục đích=Notes & Thiết bị=Laptop
+0.054962435745353894,Mục đích=Notes & Ảnh hưởng điểm=Dương
+0.054567022538552785,Giờ dùng=Từ 3h & Mục đích=Notes
+0.0771055753262159,Công cụ=ChatGPT & Mục đích=Notes
+0.051403716884143934,Mục đích=Notes & Ảnh hưởng điểm=Âm
+0.05693950177935943,Cho phép=No & Mục đích=Notes
+0.054567022538552785,Công cụ=Gemini & Mục đích=Notes
+0.06405693950177936,Mục đích=Notes & Trả phí=No
+0.066429418742586,Cho phép=Yes & Mục đích=Exam Prep & Mục đích=Notes
+0.06128904705417161,Công cụ=Copilot & Mục đích=Exam Prep & Mục đích=Notes
+0.05931198102016608,Mục đích=Exam Prep & Mục đích=Notes & Trả phí=Yes
+0.056544088572558326,Mục đích=Exam Prep & Mục đích=Notes & Thiết bị=Laptop
+0.054962435745353894,Mục đích=Exam Prep & Mục đích=Notes & Ảnh hưởng điểm=Dương
+0.054567022538552785,Giờ dùng=Từ 3h & Mục đích=Exam Prep & Mục đích=Notes
+0.0771055753262159,Công cụ=ChatGPT & Mục đích=Exam Prep & Mục đích=Notes
+0.051403716884143934,Mục đích=Exam Prep & Mục đích=Notes & Ảnh hưởng điểm=Âm
+0.05693950177935943,Cho phép=No & Mục đích=Exam Prep & Mục đích=Notes
+0.054567022538552785,Công cụ=Gemini & Mục đích=Exam Prep & Mục đích=Notes
+0.06405693950177936,Mục đích=Exam Prep & Mục đích=Notes & Trả phí=No
