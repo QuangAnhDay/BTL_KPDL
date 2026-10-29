@@ -1,0 +1,20 @@
+================================================================================
+HUONG DAN KHOI CHAY NHANH DU AN (DANH CHO GIANG VIEN / NGUOI CHAM)
+================================================================================
+
+1. CAI DAT MOI TRUONG & THU VIEN:
+   Mo Terminal (Command Prompt / PowerShell) tai thu muc nay va chay lenh:
+   
+   pip install -r requirements.txt
+
+2. KHOI CHAY CHUONG TRINH KHAI PHA:
+   - Cach 1 (Chay phan tich toan dien 1-click):
+     python run_analysis.py
+
+   - Cach 2 (Chay qua CLI voi tuy chon tham so):
+     python main.py --min-support 0.05 --min-confidence 0.60 --min-lift 1.20
+
+3. XEM KET QUA & SLIDE BAO CAO:
+   - Ket qua du lieu xuat ra: Thu muc ket_qua/ (10 file CSV, 3 bieu do PNG, tom_tat.json)
+   - Slide bao cao tuong tac 16:9 (chay offline khong can mang): presentation.html
+================================================================================
